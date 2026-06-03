@@ -30,7 +30,8 @@ jobs:
 
     steps:
       - name: checkout repo content
-      - uses: actions/checkout@v6
+        uses: actions/checkout@v6
+
       - uses: actions/setup-python@v6
         with:
           python-version: '3.13' 
@@ -46,6 +47,7 @@ jobs:
           python create-csv-and-geojson.py
       
       - uses: actions/configure-pages@v5
+
       - uses: actions/upload-pages-artifact@v5
         with:
           path: /
