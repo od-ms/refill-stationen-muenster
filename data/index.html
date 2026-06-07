@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <title>Refill Stationen Münster - GeoJSON Kartendarstellung</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+
+        .popup-table {
+            border-collapse: collapse;
+        }
+
+        .popup-table td {
+            border-bottom: 1px solid #ddd;
+            vertical-align: top;
+        }
+
+        .popup-table td:first-child {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+    // Karte initialisieren
+    const map = L.map('map').setView([51.96, 7.63], 12);
+
+    // Hintergrundkarte
+    L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+            attribution: '&copy; OpenStreetMap-Mitwirkende'
+        }
+    ).addTo(map);
+
+    // GeoJSON laden
+    fetch('refill-stationen-muenster.json')
+        .then(response => response.json())
+        .then(data => {
+
+            const geojsonLayer = L.geoJSON(data, {
+
+                onEachFeature: function(feature, layer) {
+
+                    if (feature.properties) {
+
+                        let popupContent = '<h2>' + (feature.properties.Name ?? 'Unbekannter Name') + '</h2>';
+
+                        popupContent += '<table class="popup-table">';
+
+                        for (const [key, value] of Object.entries(feature.properties)) {
+                            if (key === 'ID') continue;
+                            if (key === 'Name') continue;
+                            popupContent += `
+                                <tr>
+                                    <td>${key}</td>
+                                    <td>${value ?? ''}</td>
+                                </tr>
+                            `;
+                        }
+
+                        popupContent += '</table>';
+
+                        layer.bindPopup(popupContent);
+                    }
+                }
+
+            }).addTo(map);
+
+            // Karte auf Daten zoomen
+            map.fitBounds(geojsonLayer.getBounds());
+
+        })
+        .catch(error => {
+            console.error('Fehler beim Laden der GeoJSON-Datei:', error);
+            alert('GeoJSON-Datei konnte nicht geladen werden.');
+        });
+</script>
+
+</body>
+</html>
