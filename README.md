@@ -3,7 +3,7 @@
 Das Skript nutzt die API der OpenFairDB, um die Standorte der Refill-Stationen in Münster auszulesen. Dann legt es eine GeoJSON und eine CSV Datei mit der Liste der Standorte an.
 
 * Datenquelle: https://refill-deutschland.de/
-* Lizenz: Open Data Commons Open Database Lizenz (ODbL) - © Karte von morgen-Mitwirkende: kartevonmorgen.org/copyright 
+* Lizenz: Open Data Commons Open Database Lizenz (ODbL) - © Karte von morgen-Mitwirkende: https://kartevonmorgen.org/copyright 
 * Weitere Lizenz-Infos: https://blog.vonmorgen.org/impressum/copyright/
 * Weitere Technische Infos: https://refill-deutschland.de/refill-portal/refill-stationsdaten/
 
