@@ -42,7 +42,7 @@ def read_url_with_cache(url):
     filename = f'cache/{format(re.sub("[^0-9a-zA-Z]+", "_", url.replace(BASE_URL, "")))[0:250]}'
 
     current_ts = time.time()
-    cache_max_age = 60 * 60 * 24 * 30  # days
+    cache_max_age = 60 * 60 * 23  # 23 hours
     generate_cache_file = True
     filecontent = "{}"
     if os.path.isfile(filename):
@@ -64,7 +64,7 @@ def read_url_with_cache(url):
 
         open(filename, 'wb').write(req.content)
         filecontent = req.text
-        # lets wat a bit, dont kill a public server
+        # lets wait a bit, dont kill a public server
         time.sleep(1)
 
     jsn = json.loads(filecontent)
