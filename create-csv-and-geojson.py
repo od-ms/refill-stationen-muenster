@@ -178,8 +178,8 @@ def main_process(URL):
     big_debug_text("Reading\n Refill Stationen")
     stationen_data = wget_stationen(URL)
 
-    write_json_file(stationen_data, "refill-stationen-muenster.json")
-    write_csv_file(stationen_data, "refill-stationen-muenster.csv")
+    write_json_file(stationen_data, "data/refill-stationen-muenster.json")
+    write_csv_file(stationen_data, "data/refill-stationen-muenster.csv")
 
 
 main_process(SOURCE_URL)
