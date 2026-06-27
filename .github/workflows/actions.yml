@@ -57,5 +57,6 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v5
 
+      # In "Settings > Actions > General", Under "Workflow permissions" check "Allow GitHub Actions to create and approve pull requests"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v8
