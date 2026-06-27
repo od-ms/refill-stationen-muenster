@@ -11,7 +11,8 @@ import re
 import json
 import random
 import logging
-from datetime import datetime
+from datetime import datetime, UTC
+from zoneinfo import ZoneInfo
 import requests
 import pyfiglet
 
@@ -94,7 +95,9 @@ def wget_stationen(geojson_url):
         station_data = read_url_with_cache(f'https://api.ofdb.io/v0/entries/{station_id}')
 
         tempdate = station_data[0]['created']
-        station_data[0]['created'] = datetime.fromtimestamp(int(tempdate)).strftime('%Y-%m-%d')
+        dt = datetime.fromtimestamp(int(tempdate), tz=UTC)
+        dt = dt.astimezone(ZoneInfo("Europe/Berlin"))
+        station_data[0]['created'] = dt.strftime('%Y-%m-%d')
 
         # Achtung: station_data response is an array with only 1 entry..
         stationen_list.append(station_data[0])
