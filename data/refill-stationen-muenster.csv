@@ -1,138 +1,161 @@
 ID;Name;Latitude;Longitude;Straße;PLZ;Ort;Öffnungszeiten;Homepage;Beschreibung;Erstellungsdatum;Lizenz
-90d8f93cc77f485fba519264810acff4;Gesundheitsamt der Stadt Münster;51.96969999092151;7.635499978268286;Stühmerweg 8;48147;Münster;montags - donnerstags 8 - 16 Uhr, freitags 8 - 13 Uhr;https://www.stadt-muenster.de/gesundheit/hygiene-und-umweltmedizin/hitze-und-uv-schutz;Das Gesundheitsamt in Münster bietet im Erdgeschoss  Zugang zu Trinkwasser während der Öffnungszeiten (montags - donnerstags 8 - 16 Uhr, freitags 8 - 13 Uhr).;2024-04-08;CC0-1.0
-1bb2e38457d4454fa7c7e7cceae065ad;gruene wiese;51.964331004752;7.624177368182772;Spiekerhof 29;48143;Münster;;https://www.gruenewiese-shop.de/;"Öffnungszeiten:
-Montags bis Freitag 11-19 Uhr
-Samstag 10:30-18:00 Uhr
-";2019-08-04;CC0-1.0
-ba29501e17234c2daf5313176f75bfd5;fairTEILBAR Münster;51.950306320539816;7.624563438643032;Hammer Straße 60;48153;Münster;;https://www.fairteilbar-muenster.de/;"Di-Do 10-18 Uhr; Fr 14-18 Uhr; Sa 10-14 Uhr";2024-11-22;CC0-1.0
-6045a5d219d44aabafa1117521044c86;forum natura;51.94631368478123;7.630307724527227;Friedrich-Ebert-Str., 114;48153;Münster;;https://www.forumnatura/;"ökologische Baustoffe und Einrichtungen
-von Dienstag bis Freitag in der Regel von 9.00 Uhr - 18.00 Uhr";2020-10-24;CC0-1.0
-f212c76a1d6a43b89b5babf6e56c4f74;Frau Többen green.fair.fashion;51.95339999718284;7.626100009133155;Hammer Straße 25;48153;Münster;"Mo - Fr 10.00 - 18.30 Uhr; Sa 10.00 - 17.00 Uhr";https://www.frautoebben.de/;"Öffnungszeiten
-Mo - Fr 10.00 - 18.30 Uhr
-Sa 10.00 - 17.00 Uhr";2025-09-23;CC0-1.0
-27157ef2708242c9a0c1fb3300ce52cf;Löwen Tankstelle (Esso);51.92539999816818;7.525599984231219;Dülmener Straße 16;48163;Münster;09:00-20:00;https://www.esso.naserie.com/;Es ist die Esso Tankstelle direkt in die Waschanlage rechts gibt es Leitungswasser (Trinkwasser) dort kann man Flasche auffüllen.;2023-02-14;CC0-1.0
-e32dcd4efdbf45bab5db1afcc409431c;The Body Shop;51.960324999857846;7.624085167247841;Aegidiistr. 3;48143;Münster;;;"Öffnungszeiten
-Mo - Fr  9.30 - 19.00 Uhr
-Sa         9.30 - 18.00 Uhr";2019-08-06;CC0-1.0
+02593b062b2a40f59d56f6ade5ab4143;Südviertelbüro Münster;51.9492243006589;7.624693022866125;Hammer Straße 69;;Münster;;https://www.suedviertelbuero.de/;"Öffnungszeiten
+Mo-Fr vormittags von 10-12 Uhr
+Mo -Do nachmittags von 16-18 Uhr";2019-08-26;CC0-1.0
+05d3c74afef344178019014fc83b9a01;Cibaria BioVollkornbäckerei;51.95070001853197;7.645000027327333;Am Mittelhafen 46;48155;Münster;Mo-Fr 10.00 - 16.00 Uhr;https://www.cibaria.de/;Ökologisch-biologische Vollkornbäckerei direkt an der Hafenpromenade;2025-08-11;CC0-1.0
+0729bac094f74f43b1ae6123ecb9267d;ASB Raphael-Friedeberg-Kita;51.92579998258771;7.669799983347673;Heinrich-Hoffschulte-Weg 5;48167;Münster;Mo-Fr 07:00-16:00;https://www.asb-muensterland.de/angebote/kinder-jugend/raphael-friedeberg-kita/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+0bbb6f89ca014522abbe7f6a801ab96e;Schründer Schlafräume;51.95120527965538;7.618460658760025;Weselerstraße 77;48151;Münster;;https://www.schruender.de/;Refill Station;2019-11-25;CC0-1.0
+0cace99c9a0b4fa8a5b7c56f9ae9927c;Johanniter-Unfall-Hilfe e.V. Regionalgeschäftsst.;51.93020002075015;7.601700037532346;Geringhoffstraße 45/47;48163;Münster;;https://www.johanniter.de/muenster;"Öffnungszeiten
+mo-fr 07:00-19:00 Uhr";2026-05-19;CC0-1.0
+0d0d62534882440d9c509f1aaa76157b;Die Marmeladenmanufaktur;51.94991082043848;7.631650589234964;Blücherstraße 16;48153;Münster;;https://www.die-marmeladenmanufaktur.de/;"Öffnungszeiten
+Di - Fr 10h-18h
+Sa 10h-13h";2020-10-25;CC0-1.0
+0fd53de760cb4e0aaae46e67df9731e9;Katholisch Soziale Akademie Franz Hitze Haus;51.95599997972883;7.602300014161645;Kardinal von Galen Ring 50;48149;Münster;Mo - Sa 8-18 Uhr, So 8-13 Uhr;;refill leitungswasser;2024-09-04;CC0-1.0
+146ad45b9a134feb83ae5e66d89de0c5;Diözesanbibliothek und Mediothek Münster;51.964499983920014;7.622199993404653;Überwasserkirchplatz 2;48143;Münster;Mo-Fr 09:00-18:00;https://www.dioezesanbibliothek-muenster.de/;Mit einem Bestand von gegenwärtig etwa 800 000 Bänden und 720 laufend gehaltenen Zeitschriften gehört die Diözesanbibliothek Münster zu den größten theologischen Spezialbibliotheken des deutschen Sprachraums.;2026-05-06;CC0-1.0
 162f3845d27d464f88b183819a64ef54;EINZELHANDEL - ZUM WOHLFÜLLEN;51.972928700024696;7.629403736269755;Langemarckstraße 10;48147;Münster;;https://www.einzelhandel.ms/;"Öffnungszeiten:
 Mo - Fr: 09:30h- 19:00h
 Sa: 10:00h-17:00h
 
 ";2019-08-12;CC0-1.0
-6f9a4afb6f494af786544032cc73d04f;Unterwegs Outdoor Outlet Münster;51.96519999856371;7.622599977824185;Rosenstraße 5-6 ;48143;Münster ;"Mo. - Fr. 10:00- 18:30 Uhr; Sa. 10:00 - 18:00 Uhr";https://www.unterwegs-muenster.de/outlet/;Outdoorgeschäft & Refill-Station;2024-08-07;CC0-1.0
-0bbb6f89ca014522abbe7f6a801ab96e;Schründer Schlafräume;51.95120527965538;7.618460658760025;Weselerstraße 77;48151;Münster;;https://www.schruender.de/;Refill Station;2019-11-25;CC0-1.0
-0fd53de760cb4e0aaae46e67df9731e9;Katholisch Soziale Akademie Franz Hitze Haus;51.95599997972883;7.602300014161645;Kardinal von Galen Ring 50;48149;Münster;Mo - Sa 8-18 Uhr, So 8-13 Uhr;;refill leitungswasser;2024-09-04;CC0-1.0
-5326e7d5c0814187910a71a1b5d0ccd5;KSHG Münster;51.96380001118584;7.621500020670472;Frauenstraße 3-6;48143;Münster;9.00 - 22.00 Uhr;;Refill Station;2024-10-21;CC0-1.0
-e265bcca7bcb4284bc1a468a45ced24c;Kundenservicecenter Stadtwerke Münster;51.95041335744337;7.638621399010821;Hafenplatz 1;48155;Münster;Mo-Fr: 09:00 - 16:00 Uhr;https://www.stadtwerke-muenster.de/;"Kostenloses Trinkwasser
-";2025-03-30;CC0-1.0
-52c37e7fc3284ffb8a2ebf5acb60a91f;Bahnhofsmission Münster;51.95577878130403;7.635626796463331;Berliner Platz 8-10;48143;Münster;Mo-Fr 8-20 und Sa-So 13-17;;Die BM - Münster ist Refill-Station, dort kann man kostenlos seine Wasserflasche auffüllen lassen. auf Gleis 12;2024-09-03;CC0-1.0
-7ad812fd423841cebfa1261ce739a0cf;Draußen e.V.;51.95520001088977;7.624899972055527;Von-Kluck-Straße 15;48143;Münster;10-15;https://strassenmagazin-draussen.de/;Wir sind das Straßenmagazin aus Münster. Wir bieten mo-fr ein kostenloses Frühstück, Dusch- und Waschmöglichkeiten sowie Lebensmittelspenden für Menschen in sozialen/finanziellen Notlagen an. Darüber hinaus sind wir eine Refill-Station.;2025-08-13;CC0-1.0
-bfad1249a7b34c4bad13907cf7753652;Autohaus Fischer GmbH | Service;51.93969118499183;7.629951912737429;Dahlweg 121;48153;Münster;Mo-Fr 07:00-18:00;;Wasserflasche leer? Kein Problem! Sagen Sie einfach kurz an der Information Bescheid und füllen Sie Ihre Flasche kostenfrei mit Leitungswasser auf.;2021-08-06;CC0-1.0
-ee62ea35a910446e81de5ce9b127cc65;Medizin-Bibliothek;51.960899998415684;7.599199967272207;Albert-Schweitzer-Campus 1, Gebäude A11;48149;Münster;Mo-Do: 08-24 Uhr, Fr: 08-22 Uhr, Sa-So: 10-22 Uhr, Feiertage geschlossen.;https://www.uni-muenster.de/MediBib;Gebäude A11 auf dem Klinikgelände, Hahn befindet sich im Bistro im Erdgeschoss bei den Automaten, Trinkwasser im Erdgeschoss auch via Aufzug erreichbar.;2026-04-01;CC0-1.0
-ed0e8e8c23744f48bbd92cb633a49c2e;Blumenhaus Harbaum;51.95960000714268;7.611899975506542;Himmelreichallee 45;48149;Münster;Mo-Fr 8-17Uhr Sa 8-13Uhr Mi nachmittags geschlossen;;Sowohl im Geschäft als auch im Außenverkauf ist das auffüllen deiner Trinkflasche mit Leitungswasser möglich !;2025-07-01;CC0-1.0
-610346b4f71c40fdab3f819e31f9518e;Autohaus Fischer GmbH;51.94891064984208;7.6318663394227;48153 ;71-91;Friedrich-Ebert-Str;"Mo-Fr 09:00-18:30; Sa 09:00-13:00";;Wasserflasche leer? Kein Problem! Sagen Sie einfach kurz an der Information Bescheid und füllen Sie Ihre Flasche kostenfrei mit Leitungswasser auf.;2021-08-06;CC0-1.0
-e12ac7f554e843f08d6a1c571eed9df8;Unterwegs Outdoor GmbH;51.96519999856371;7.622599977824185;Rosenstraße 5-6;48143;Münster;;https://www.unterwegs-muenster.de/;"Öffnungszeiten:
-Mo - Fr: 10:00 - 18:30
-Sa: 10:00 - 18:00";2024-08-07;CC0-1.0
-3e94137a69724e84be651bc184cd6733;Bahnhofsmission Münster;51.95013168358716;7.613301681174572;Hauptbahnhof Münster Gleis 9/12;48143;Münster;Mo-Fr 8:00-20:00;http://www.bahnhofsmission.de/;"Öffnungszeiten
-Mo-Fr 8:00-20:00";2023-07-11;CC0-1.0
-e180ab75389a405a92f2be0abeb267ba;TravelWorks (Travelplus Group GmbH);51.929948018831176;7.7194350155626585;Münsterstr. 111;48155;Münster;;https://www.travelworks.de/;"Öffnungszeiten:
-Mo - Fr 09:00h-18:00h";2019-08-03;CC0-1.0
-b05256e81c6a48b0a7d04d824c0dabd3;handwerkstatt münster;51.959481906126946;7.6410280948695855;Zumsandestr. 32;48145;Münster;;https://www.handwerkstatt-muenster.de/;"Öffnungszeiten
-Mo - Fr 10.00 - 12.30 Uhr
-Di & Mi 15:00 - 18:00 Uhr";2019-08-06;CC0-1.0
-6862046c308b4cefa9179366521730fb;Overschmidt Yachtschule;51.95763709114755;7.6147157082402686;Annette-Allee 1;48149;Münster;;https://www.overschmidt.de/;"Öffnungszeiten
-Mo - Do 09:00 - 16:00
-Fr 09 - 14:00";2019-08-07;CC0-1.0
-9926dec688054cd09ae37ae652ba4079;ZAQUENSIS Service-Center Münster;51.96088650355157;7.6349495386867545;Eisenbahnstraße 11;48143;Münster;;https://www.zaquensis.de/;"Öffnungszeiten:
-Mo. - Fr. 8-17 Uhr";2019-08-21;CC0-1.0
-37f092e693ab408fab78d91803abc7d8;la tienda e.V.;51.9636257095093;7.6210814284258905;Frauenstraße 7;48143;Münster;;https://www.latienda-weltladen.de/;"Öffnungszeiten
-Montag - Freitag 10 - 18 Uhr 
-Samstag 11 - 14:30 Uhr";2019-08-26;CC0-1.0
-e1a164dd17ac447c965714304dac444d;Andreas Döpker Friseure;51.955842693315745;7.625340776343523;Ludgeriplatz 11-13;48151;Münster;;https://www.doepker-friseure.de/;"Öffnungszeiten
-Di,Mi, Fr 10.00h - 19.00h
-Do 10.00h - 20.00h
-Sa 09.00h - 16.00h";2019-08-26;CC0-1.0
-9076483061f24582a7aa8150a36a051e;Auszeit - Mein Tag am Meer;51.95802571808827;7.628006892105567;Beelertstiege 5-6;48143;Münster;;https://www.auszeit.ms/;"Öffnungszeiten
-Mo-Fr 10:30h-19h
-Sa 10h-16h";2019-08-26;CC0-1.0
-787678f720f04f718b33b71a560306af;New Optics by Martin Newels;51.96417111994893;7.630868976763854;Bült 7;48134;Münster;;https://www.new-optics.de/;"Öffnungszeiten
-Mo - Fr  9.30 - 18.30 Uhr
-Sa       10.00 - 16.00 Uhr";2019-08-06;CC0-1.0
+1bb2e38457d4454fa7c7e7cceae065ad;gruene wiese;51.964331004752;7.624177368182772;Spiekerhof 29;48143;Münster;;https://www.gruenewiese-shop.de/;"Öffnungszeiten:
+Montags bis Freitag 11-19 Uhr
+Samstag 10:30-18:00 Uhr
+";2019-08-04;CC0-1.0
+1f22ba9e68954e17a18f63847c3ee949;Starbucks Münster Hauptbahnhof;51.95671239958923;7.634050411933125;Berliner Platz 8-10;48143;Münster;;;"Öffnungszeiten:
+Mo-Sa 06:00-22:00 So 06:30-21:00
+
+";2019-08-19;CC0-1.0
+20d88f8037cd4151ab074604ce2cedec;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;51.931199981798976;7.648299982607504;Gustav-Stresemann-Weg 62;48155;Münster;Mo-So 00:00-24:00;https://www.asb-muensterland.de/;Hauptgebäude;2026-06-11;CC0-1.0
+250f8b003f7448d4a8680f23db410e23;ASB Emil-Stein-Kita;51.93270000719125;7.617200020522438;Düesbergweg 102;48153;Münster;"Mo-Do 07:00 - 16:15; Fr 07:00 - 15:00";https://www.asb-muensterland.de/angebote/kinder-jugend/emil-stein-kita/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-18;CC0-1.0
 25a221d7a62a4485abf229a017044076;Ska Treff;51.96690030953237;7.658828826462305;Skagerrakstrasse 2;48145;Münster;;;"Öffnungszeiten
 Mo - Do 9:00 - 18:00 Uhr
 Fr 9:00 - 17:00 Uhr";2019-08-12;CC0-1.0
+27157ef2708242c9a0c1fb3300ce52cf;Löwen Tankstelle (Esso);51.92539999816818;7.525599984231219;Dülmener Straße 16;48163;Münster;09:00-20:00;https://www.esso.naserie.com/;Es ist die Esso Tankstelle direkt in die Waschanlage rechts gibt es Leitungswasser (Trinkwasser) dort kann man Flasche auffüllen.;2023-02-14;CC0-1.0
+28b1c4937b554d5fa7870f0937eec155;Das Schönwerk;51.96302091328568;7.645032213835527;Warendorfer Straße 71;48145;Münster;;https://www.dasschoenwerk.de/;"Öffnungszeiten
+Montag - Freitag: 10.00 - 18.30 Uhr
+Samstag 10.00 - 14.00 Uhr";2019-08-14;CC0-1.0
+2c2bbea431f849bea2e8f7c47de0561d;Cycle Hub;51.95049998441269;7.632200022988115;Friedrich-Ebert-Str 43;48153;48153;Di-Fr 10:00 - 18:00;https://cycle-hub.de/;Fahrradwerkstatt + Showroom;2025-07-01;CC0-1.0
+2eec414740bd409e9ba5eaef95a40fd6;a.cat - kollektiv für kultur, café & kneipe;51.95599997972883;7.6325000113027635;Herwarthstraße 7;48143;Münster;"We-Fr 19:00-00:00; Sa 14:00-00:00";https://www.a-cat.ms/;Wir sind eine Kulturkneipe, in der Konzerte, Vorträge und queere Veranstaltungen stattfinden.;2025-07-21;CC0-1.0
+37f092e693ab408fab78d91803abc7d8;la tienda e.V.;51.9636257095093;7.6210814284258905;Frauenstraße 7;48143;Münster;;https://www.latienda-weltladen.de/;"Öffnungszeiten
+Montag - Freitag 10 - 18 Uhr 
+Samstag 11 - 14:30 Uhr";2019-08-26;CC0-1.0
+3ad88aaa618b4a3586d9db4db777e6c4;Infopunkt Hiltrup;51.90389999742801;7.643300009725289;Marktallee 38;48165;Münster;Mo.10h-12h 16h-18h Di.10h-12h 16h-18h Mi.-10h-12h 16h-18h Do.10h-12h 16h-18h Fr.10h-12h 16h-18h Sa.10h-12h;https://www.infopunkt-hiltrup.de/;"Ein Initiative der Stadtteiloffensive Hiltrup e.V.
+Bürger für Bürger
+Alles rund um Hiltrup";2022-08-18;CC0-1.0
 3e2a44a4d19340ed89d79bffbce9f895;Umwelthaus Münster;51.960444190521;7.641455571931533;Zumsandestraße 15;48145;Münster;;https://www.umweltforum-muenster.de/;"Öffnungszeiten
 Mo-Do 09h-12h
 Mi 13-15h
 Do 14-17h
 (oder einfach klingeln, vielleicht ist gerade jemand vor Ort)";2019-08-15;CC0-1.0
-c49b8b24ff8b4dbca24a0dd74ef47901;Adenauer & Co Strandhaus Münster;51.960438909922;7.625146232370821;Rothenburg 14-16;48143;Münster;;https://www.adenauer.com/;"Öffnungszeiten
-Mo-Sa 10h-19h";2019-08-26;CC0-1.0
+3e94137a69724e84be651bc184cd6733;Bahnhofsmission Münster;51.95013168358716;7.613301681174572;Hauptbahnhof Münster Gleis 9/12;48143;Münster;Mo-Fr 8:00-20:00;http://www.bahnhofsmission.de/;"Öffnungszeiten
+Mo-Fr 8:00-20:00";2023-07-11;CC0-1.0
+43822d0cf7ba4c54bedc1d9ddf350850;ASB Münsterland Büro Hammer Straße 157;51.9421000182359;7.624100003216462;Hammer Straße 157;48153;Münster;Mo-Fr 09:00-16:00;https://www.asb-muensterland.de/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+44fe8568215b4559b68472d4defff28d;RUMS Münster;51.949700015573626;7.654200004252698;Neubrückenstraße 8-11;Münster;48153;10 Uhr -16.30 Uhr;https://www.rums.ms/;Medienunternehmen;2022-07-18;CC0-1.0
+4c44bc1ddfd44839b75b21464575d7ef;ASB Münsterland Büro Gievenbeck;51.96659998594159;7.563800005039107;Dieckmannstraße 116;48161;Münster;Mo-Fr 09:00-16:00;https://www.asb-muensterland.de/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+50cafb9c8498448097567188b5276813;Gudrun Sjödén GmbH - Konzeptladen Münster;51.96302527187533;7.628105882382069;Prinzipalmarkt 48;48143;Münster;;https://www.gudrunsjoeden.de/;"Öffnungszeiten
+Mo - Fr 10 - 19 Uhr
+Samstag 10 - 18 Uhr";2020-10-25;CC0-1.0
+52c37e7fc3284ffb8a2ebf5acb60a91f;Bahnhofsmission Münster;51.95577878130403;7.635626796463331;Berliner Platz 8-10;48143;Münster;Mo-Fr 8-20 und Sa-So 13-17;;Die BM - Münster ist Refill-Station, dort kann man kostenlos seine Wasserflasche auffüllen lassen. auf Gleis 12;2024-09-03;CC0-1.0
+5326e7d5c0814187910a71a1b5d0ccd5;KSHG Münster;51.96380001118584;7.621500020670472;Frauenstraße 3-6;48143;Münster;9.00 - 22.00 Uhr;;Refill Station;2024-10-21;CC0-1.0
+5f239810b30b49ec9ed296309ef467be;Pfarrheim und Bücherei St. Marien;51.906900006303054;7.667599985221215;Loddenweg 8a;48165;Münster;mo 9:00-12:00, di 9:00-11:00, mi 10:30-12:30, mi 16:00-18:00, do 15:00-17:00, sa 16:00-18:00;https://www.sankt-clemens-hiltrup.de/;Während der Ortsbüro- und Bücherei-Öffnungszeiten, kommen Sie gerne vorbeikommen, um sich Ihre Flasche an unserem Wasserspender aufzufüllen.;2025-02-06;CC0-1.0
+5faf2cd8b7464e8db3d31ee2dd555bd5;Doro Dot Design Kleidung & Accessoires;51.903061346105794;7.640185294505295;Marktallee 18;48165;Münster;Fr 10-17;https://www.dorodotdesign.de/;Öffnungszeiten Freitag 10-17 Uhr;2025-07-09;CC0-1.0
+6030914bd345454481d7b723cb156902;Pfarrzentrum und Jugendtreff St. Clemens;51.904400019861946;7.6405000349695325;Patronatsstraße 2;48165;Münster;mo - fr 8:00-12:30, mo 14:30-18:00, di 15:00-18:00, mi 15:00-18:00, do 15:00-19:00, fr 15:00-20:00;https://www.sankt-clemens-hiltrup.de/;Im Pfarrzentrum finden Sie unseren Wasserspender. Kommen Sie gerne vorbei, um sich Ihre Falsche aufzufüllen.;2025-02-06;CC0-1.0
+6045a5d219d44aabafa1117521044c86;forum natura;51.94631368478123;7.630307724527227;Friedrich-Ebert-Str., 114;48153;Münster;;https://www.forumnatura/;"ökologische Baustoffe und Einrichtungen
+von Dienstag bis Freitag in der Regel von 9.00 Uhr - 18.00 Uhr";2020-10-24;CC0-1.0
+610346b4f71c40fdab3f819e31f9518e;Autohaus Fischer GmbH;51.94891064984208;7.6318663394227;48153 ;71-91;Friedrich-Ebert-Str;"Mo-Fr 09:00-18:30; Sa 09:00-13:00";;Wasserflasche leer? Kein Problem! Sagen Sie einfach kurz an der Information Bescheid und füllen Sie Ihre Flasche kostenfrei mit Leitungswasser auf.;2021-08-06;CC0-1.0
+67d3c94d27ef418281ec6d0fbce75eeb;ASB Julius-Moses-Kita;51.939399997675515;7.628799987784028;Dahlweg 118;48153;Münster;"Mo-Do 07:00 - 16:15; Fr 07:00 - 15:00";https://www.asb-muensterland.de/angebote/kinder-jugend/familienzentrum-julius-moses-kita/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-18;CC0-1.0
+6862046c308b4cefa9179366521730fb;Overschmidt Yachtschule;51.95763709114755;7.6147157082402686;Annette-Allee 1;48149;Münster;;https://www.overschmidt.de/;"Öffnungszeiten
+Mo - Do 09:00 - 16:00
+Fr 09 - 14:00";2019-08-07;CC0-1.0
+6f9a4afb6f494af786544032cc73d04f;Unterwegs Outdoor Outlet Münster;51.96519999856371;7.622599977824185;Rosenstraße 5-6 ;48143;Münster ;"Mo. - Fr. 10:00- 18:30 Uhr; Sa. 10:00 - 18:00 Uhr";https://www.unterwegs-muenster.de/outlet/;Outdoorgeschäft & Refill-Station;2024-08-07;CC0-1.0
+70150461a7ea4c17aeeb5224c9bd8c01;Kanzlei Am Stadtgraben ;51.95830001586969;7.619999995278195;Am Stadtgraben 43;48143;Münster;09:00 Uhr bis 17:00 Uhr;https://www.kanzlei-am-stadtgraben.de/;Anwaltskanzlei;2026-06-16;CC0-1.0
+787678f720f04f718b33b71a560306af;New Optics by Martin Newels;51.96417111994893;7.630868976763854;Bült 7;48134;Münster;;https://www.new-optics.de/;"Öffnungszeiten
+Mo - Fr  9.30 - 18.30 Uhr
+Sa       10.00 - 16.00 Uhr";2019-08-06;CC0-1.0
+7ad812fd423841cebfa1261ce739a0cf;Draußen e.V.;51.95520001088977;7.624899972055527;Von-Kluck-Straße 15;48143;Münster;10-15;https://strassenmagazin-draussen.de/;Wir sind das Straßenmagazin aus Münster. Wir bieten mo-fr ein kostenloses Frühstück, Dusch- und Waschmöglichkeiten sowie Lebensmittelspenden für Menschen in sozialen/finanziellen Notlagen an. Darüber hinaus sind wir eine Refill-Station.;2025-08-13;CC0-1.0
+7d7b98a548114cc6a0f6ce050b7ec6ed;Johanniter-Unfall-Hilfe e.V. Pflegestation Nord;51.996284705585005;7.665622694262128;An der alten Ziegelei 20;48157;Münster;;https://www.johanniter.de/dienstleistungen/pflege-und-beratung/pflegedienste/ambulante-pflegedienste/;"Öffnungszeiten
+Mo-Fr 08:00-16:00 Uhr";2019-08-06;CC0-1.0
+7f909c05abd5427ca4cc4399882081e0;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;51.930500009064794;7.647800002083089;Gustav-Stresemann-Weg 54;48155;Münster;Mo-Fr 09:00-16:00;https://www.asb-muensterland.de/;Bürogebäude;2026-06-11;CC0-1.0
+7fa2f09da0d5416b972a93a5edd9f049;ASB Gustav-Dietrich-Kita;51.92310000393684;7.699100015544845;Alt Angelmodde 15;4814348147;Münster;Mo-Fr 07:00-16:00;https://www.asb-muensterland.de/angebote/kinder-jugend/gustav-dietrich-kita/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
 80a603c4d9b94d6784c9da343ca4187d;Trekking König Münster;51.95827889347369;7.62962133047619;Windthorststraße 35;48143;Münster;;https://www.trekking-koenig.de/filialen/muenster/;"Öffnungszeiten:
 Montag bis Freitag: 10:00 bis 19:00 Uhr 
 Samstag: 09:30 bis 18:00 Uhr";2019-08-26;CC0-1.0
-7d7b98a548114cc6a0f6ce050b7ec6ed;Johanniter-Unfall-Hilfe e.V. Pflegestation Nord;51.996284705585005;7.665622694262128;An der alten Ziegelei 20;48157;Münster;;https://www.johanniter.de/dienstleistungen/pflege-und-beratung/pflegedienste/ambulante-pflegedienste/;"Öffnungszeiten
-Mo-Fr 08:00-16:00 Uhr";2019-08-06;CC0-1.0
-02593b062b2a40f59d56f6ade5ab4143;Südviertelbüro Münster;51.9492243006589;7.624693022866125;Hammer Straße 69;;Münster;;https://www.suedviertelbuero.de/;"Öffnungszeiten
-Mo-Fr vormittags von 10-12 Uhr
-Mo -Do nachmittags von 16-18 Uhr";2019-08-26;CC0-1.0
-5faf2cd8b7464e8db3d31ee2dd555bd5;Doro Dot Design Kleidung & Accessoires;51.903061346105794;7.640185294505295;Marktallee 18;48165;Münster;Fr 10-17;https://www.dorodotdesign.de/;Öffnungszeiten Freitag 10-17 Uhr;2025-07-09;CC0-1.0
-e973a5656c3d4f0985317de457c631d2;interface medien GmbH;51.93838976879529;7.628409977829275;Scheibenstraße, 119;48153;Münster;Mo-Fr 09:00-16:00;https://www.interface-medien.de/;interface medien ist ein in der Digitalmetropole Münster hervorragend vernetztes IT-, Beratungs- und Marketingunternehmen mit über 20-jähriger Erfahrung. Unser Sitz ist das Kreativzentrum „Skaters Palace“. ;2022-03-29;CC0-1.0
-44fe8568215b4559b68472d4defff28d;RUMS Münster;51.949700015573626;7.654200004252698;Neubrückenstraße 8-11;Münster;48153;10 Uhr -16.30 Uhr;https://www.rums.ms/;Medienunternehmen;2022-07-18;CC0-1.0
-0cace99c9a0b4fa8a5b7c56f9ae9927c;Johanniter-Unfall-Hilfe e.V. Regionalgeschäftsst.;51.93020002075015;7.601700037532346;Geringhoffstraße 45/47;48163;Münster;;https://www.johanniter.de/muenster;"Öffnungszeiten
-mo-fr 07:00-19:00 Uhr";2026-05-19;CC0-1.0
-c5f3b666968745eabbff90d2e0a7547f;Heinrich Petzhold GmbH&Co. KG;51.9620569944205;7.628288691690326;Prinzipalmarkt 5;48143;Münster;;https://www.petzhold.de/;"Öffnungszeiten
-Mo. - Sa. 9.30 - 19.00 Uhr";2019-08-13;CC0-1.0
-f511209134b141f980a8090e2012b35f;Lückertz Reisebüro GmbH;51.960683703404236;7.632738895543263;Salzstraße 36;48143;Münster;;https://www.ww.lueckertz.de/;"Mo - Fr von 09:30 - 19:00 Uhr
-Sa von 10:00 - 18:00 Uhr";2019-10-01;CC0-1.0
-28b1c4937b554d5fa7870f0937eec155;Das Schönwerk;51.96302091328568;7.645032213835527;Warendorfer Straße 71;48145;Münster;;https://www.dasschoenwerk.de/;"Öffnungszeiten
-Montag - Freitag: 10.00 - 18.30 Uhr
-Samstag 10.00 - 14.00 Uhr";2019-08-14;CC0-1.0
-e2859a3fa72c4315acc986017ea58776;Onkel Alex;51.90435249447094;7.644922578541991;Marktallee 41;48165;Münster Hiltrup;Mo-Fr 10-18;https://onkel-alex.de/;"Öffnungszeiten
-MO-FR: 10-18 Uhr
-
-Wir sind barrierefrei";2025-07-09;CC0-1.0
-b1b415712cd24183a0269773dc4d8259;AOK NordWest Kundencenter Münster;51.95720001680646;7.6266999857624524;Königsstraße 18/20;48143;Münster;Mo und Do: 08:30 - 18:00 Uhr, Di 08:30 - 17:00 Uhr, Mi und Fr 08:30 - 14:00 Uhr;https://www.aok.de/pk/nordwest/;Bei uns im Kundencenter füllen wir Ihre Flasche gerne wieder auf. ;2022-12-02;CC0-1.0
-ed5828d13372495089c8ec95af6e9d52;KüchenTreff Münster;51.99323130398673;7.570062879272766;Haus Uhlenkotten 6;48159;Münster;10:00 - 18:00;https://www.kuechentreff-muenster.de/;"#kuechen
-#kuechentreff";2021-09-17;CC0-1.0
-db881edac74d4698a3de32ff255621ad;Stromspar-Check;51.98085169400128;7.6140631770780605;Kinderhauser Straße 102;48147;Münster;;http://www.caritas-ms.de/hilfe-beratung/stromsparcheck/;Kostenlose Energieberatung der Caritas für Haushalte mit geringem Einkommen in Münster;2020-03-04;CC0-1.0
-de7c983faf2f45f387475a0efe98f758;Servicezentrum und Münster Information;51.96140320597282;7.629614960229777;Heinrich-Brüning-Straße 7;48143;Münster;"Mo-Fr 8-18 Uhr; Sa 8-16 Uhr";https://www.stadt-muenster.de/;Frischwasser zum Abzapfen im Stadthaus 1;2021-06-09;CC0-1.0
-f3fa35641ecd4d579ba2b30b8c4590ce;Adler Vital;51.96227328943195;7.629151943898365;Salzstraße 58;48143;Münster;;https://www.muenster-gesundheit.de/;"Reformhaus
-Öffnungszeiten
-Mo-Fr: 8:30-18:30 Uhr
-Sa:       9:00-18:00 Uhr
-";2020-01-10;CC0-1.0
-3ad88aaa618b4a3586d9db4db777e6c4;Infopunkt Hiltrup;51.90389999742801;7.643300009725289;Marktallee 38;48165;Münster;Mo.10h-12h 16h-18h Di.10h-12h 16h-18h Mi.-10h-12h 16h-18h Do.10h-12h 16h-18h Fr.10h-12h 16h-18h Sa.10h-12h;https://www.infopunkt-hiltrup.de/;"Ein Initiative der Stadtteiloffensive Hiltrup e.V.
-Bürger für Bürger
-Alles rund um Hiltrup";2022-08-18;CC0-1.0
+8b9f570915c4452db6b19e758e57dead;ASB Kita Holtmannshof;51.99590001813876;7.630999985910487;Holtmannsweg 1;48157;Münster;Mo-Fr 07:00-16:00;https://www.asb-muensterland.de/angebote/kinder-jugend/kita-holtmannshof/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
 8fb738e428a941ce943d7e6d84879df4;Adler Apotheke;51.96235425861662;7.629184130406559;Salzstraße 58;48143;Münster;;https://www.adlerapotheke-muenster.de/;"Öffnungszeiten:
 Mo-Fr: 8:15 - 19:00 Uhr
 Sa:       9:00-18:00 Uhr
 ";2020-01-20;CC0-1.0
+9076483061f24582a7aa8150a36a051e;Auszeit - Mein Tag am Meer;51.95802571808827;7.628006892105567;Beelertstiege 5-6;48143;Münster;;https://www.auszeit.ms/;"Öffnungszeiten
+Mo-Fr 10:30h-19h
+Sa 10h-16h";2019-08-26;CC0-1.0
+90d8f93cc77f485fba519264810acff4;Gesundheitsamt der Stadt Münster;51.96969999092151;7.635499978268286;Stühmerweg 8;48147;Münster;montags - donnerstags 8 - 16 Uhr, freitags 8 - 13 Uhr;https://www.stadt-muenster.de/gesundheit/hygiene-und-umweltmedizin/hitze-und-uv-schutz;Das Gesundheitsamt in Münster bietet im Erdgeschoss  Zugang zu Trinkwasser während der Öffnungszeiten (montags - donnerstags 8 - 16 Uhr, freitags 8 - 13 Uhr).;2024-04-08;CC0-1.0
+93b8e75152234c089433750f55554bf9;ASB Rettungsdienstschule Dr.-Friedhelm-Bartels-Schule;51.919399980418106;7.7291000204761975;Münsterstraße 24;48167;Münster;Mo-Fr 09:00-16:00;https://www.asb-muensterland.de/angebote/rettungsdienstschule/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+9926dec688054cd09ae37ae652ba4079;ZAQUENSIS Service-Center Münster;51.96088650355157;7.6349495386867545;Eisenbahnstraße 11;48143;Münster;;https://www.zaquensis.de/;"Öffnungszeiten:
+Mo. - Fr. 8-17 Uhr";2019-08-21;CC0-1.0
 aa87a0ee35234f55a3760c73cb4a4cac;Cibaria BioVollkornbäckerei;51.95343448871441;7.63640455325898;Bremer Straße 56;48155;Münster;Mo-Fr 7.30-17.30 Uhr Sa 7.30-12-00;https://www.cibaria.de/;"BioVollkornBäckerei in Münster, Backwaren aus 100 % kontrolliert biologischem Anbau und aus artgerechter Tierhaltung
 ";2025-08-11;CC0-1.0
-0d0d62534882440d9c509f1aaa76157b;Die Marmeladenmanufaktur;51.94991082043848;7.631650589234964;Blücherstraße 16;48153;Münster;;https://www.die-marmeladenmanufaktur.de/;"Öffnungszeiten
-Di - Fr 10h-18h
-Sa 10h-13h";2020-10-25;CC0-1.0
+ae05f72e64f0433bb2c57dfe28c28a85;Spiritual Care / Seelsorge am UKM;51.96170000916426;7.592599972892832;Albert-Schweitzer-Str. 40;48149;Münster;Mo-Fr 9-18 Uhr;https://www.ukm.de/seelsorge;Das Seelsorge-Team steht Menschen am UKM zur Seite: Selbstverständlich sind wir für Patient*innen, für deren An- & Zugehörige und auch für die Mitarbeitenden des UKM da.;2026-05-22;CC0-1.0
+b05256e81c6a48b0a7d04d824c0dabd3;handwerkstatt münster;51.959481906126946;7.6410280948695855;Zumsandestr. 32;48145;Münster;;https://www.handwerkstatt-muenster.de/;"Öffnungszeiten
+Mo - Fr 10.00 - 12.30 Uhr
+Di & Mi 15:00 - 18:00 Uhr";2019-08-06;CC0-1.0
+b06740d8d0a84bada66945c51ea5847f;ASB Kindertagespflege Sonnenzwerge;51.96250001991284;7.634000036695041;Sonnenstraße 89;48143;Münster;Mo-Fr 07:00-16:00;https://www.asb-muensterland.de/sonnenzwerge/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+b1b415712cd24183a0269773dc4d8259;AOK NordWest Kundencenter Münster;51.95720001680646;7.6266999857624524;Königsstraße 18/20;48143;Münster;Mo und Do: 08:30 - 18:00 Uhr, Di 08:30 - 17:00 Uhr, Mi und Fr 08:30 - 14:00 Uhr;https://www.aok.de/pk/nordwest/;Bei uns im Kundencenter füllen wir Ihre Flasche gerne wieder auf. ;2022-12-02;CC0-1.0
+b3fe5033acda4c5bbc4292a358c5a5f0;ASB Mathilde-von-Hofstetten-Kita;51.990600015032385;7.6164999639692255;Regina-Protmann-Straße 24;48159;Münster;Mo-Fr 07:00-16:00;https://www.asb-muensterland.de/angebote/kinder-jugend/mathilde-von-hofstetten-kita/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+b58607dc150545838a697f97af6acc23;ASB Großtagespflege Zwergenburg;51.914999984165185;7.689599966485798;Clemens-August-Platz 4-6;48167;Münster;Mo-Fr 08:00-15:00;https://www.asb-muensterland.de/zwergenburg/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+b8c7cfedb11545df8aab952b89a73f56;ASB Vertretungsstützpunkt Sonnenwichtel;51.962600016017724;7.634000036695041;Sonnenstraße 88;48143;Münster;Mo-Fr 07:00-16:00;https://www.asb-muensterland.de/angebote/kinder-jugend/vertretungsstuetzpunkt-sonnenwichtel/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+b9cd1a3e936a4fe1851a756b8e1b87c4;Haus der Nachhaltigkeit;51.9548999806656;7.626499993552686;Hammer Str. 1;48153;Münster;Di+Do 10-12 und 14-16 Uhr, Mi 10-12 und 14-17 Uhr, Fr 10-12, 2. Sa im Monat 10-14 Uhr;https://www.stadt-muenster.de/umwelt/nachhaltigkeit/haus-der-nachhaltigkeit;Das Haus der Nachhaltigkeit ist die städtische Anlaufstelle für Bürger*innen rund um Fragen zu nachhaltigen Konsum- und Lebensweisen, insbesondere zu Natur-, Umwelt- und Klimaschutzthemen. ;2026-06-25;CC0-1.0
+ba29501e17234c2daf5313176f75bfd5;fairTEILBAR Münster;51.950306320539816;7.624563438643032;Hammer Straße 60;48153;Münster;;https://www.fairteilbar-muenster.de/;"Di-Do 10-18 Uhr; Fr 14-18 Uhr; Sa 10-14 Uhr";2024-11-22;CC0-1.0
+bfad1249a7b34c4bad13907cf7753652;Autohaus Fischer GmbH | Service;51.93969118499183;7.629951912737429;Dahlweg 121;48153;Münster;Mo-Fr 07:00-18:00;;Wasserflasche leer? Kein Problem! Sagen Sie einfach kurz an der Information Bescheid und füllen Sie Ihre Flasche kostenfrei mit Leitungswasser auf.;2021-08-06;CC0-1.0
+c28874ea0b06479894c2bd6dcd710c55;Radmeisterei;51.96270001212261;7.6456000039566305;Warendorfer Straße 46;48145;Münster;Mo-Fr 09:30-18:00, Sa 10:00-15:00;https://www.asb-muensterland.de/angebote/radmeisterei;Fahrradladen des ASB RV Münsterland e.V.;2026-06-11;CC0-1.0
+c49b8b24ff8b4dbca24a0dd74ef47901;Adenauer & Co Strandhaus Münster;51.960438909922;7.625146232370821;Rothenburg 14-16;48143;Münster;;https://www.adenauer.com/;"Öffnungszeiten
+Mo-Sa 10h-19h";2019-08-26;CC0-1.0
+c5f3b666968745eabbff90d2e0a7547f;Heinrich Petzhold GmbH&Co. KG;51.9620569944205;7.628288691690326;Prinzipalmarkt 5;48143;Münster;;https://www.petzhold.de/;"Öffnungszeiten
+Mo. - Sa. 9.30 - 19.00 Uhr";2019-08-13;CC0-1.0
 caf4538293ae48d4bbfeb38c80856d9f;AOK NordWest Kundencenter Münster;51.96250001991284;7.625199960370176;Köngisstraße 18/20;48143;Münster;;;Hier können Sie während der Öffnungszeiten ihre mitgebrachte Trinkflasche kostenlos auffüllen lassen.;2024-05-30;CC0-1.0
-50cafb9c8498448097567188b5276813;Gudrun Sjödén GmbH - Konzeptladen Münster;51.96302527187533;7.628105882382069;Prinzipalmarkt 48;48143;Münster;;https://www.gudrunsjoeden.de/;"Öffnungszeiten
-Mo - Fr 10 - 19 Uhr
-Samstag 10 - 18 Uhr";2020-10-25;CC0-1.0
-6030914bd345454481d7b723cb156902;Pfarrzentrum und Jugendtreff St. Clemens;51.904400019861946;7.6405000349695325;Patronatsstraße 2;48165;Münster;mo - fr 8:00-12:30, mo 14:30-18:00, di 15:00-18:00, mi 15:00-18:00, do 15:00-19:00, fr 15:00-20:00;https://www.sankt-clemens-hiltrup.de/;Im Pfarrzentrum finden Sie unseren Wasserspender. Kommen Sie gerne vorbei, um sich Ihre Falsche aufzufüllen.;2025-02-06;CC0-1.0
-5f239810b30b49ec9ed296309ef467be;Pfarrheim und Bücherei St. Marien;51.906900006303054;7.667599985221215;Loddenweg 8a;48165;Münster;mo 9:00-12:00, di 9:00-11:00, mi 10:30-12:30, mi 16:00-18:00, do 15:00-17:00, sa 16:00-18:00;https://www.sankt-clemens-hiltrup.de/;Während der Ortsbüro- und Bücherei-Öffnungszeiten, kommen Sie gerne vorbeikommen, um sich Ihre Flasche an unserem Wasserspender aufzufüllen.;2025-02-06;CC0-1.0
+cb6b602b8bd54d6f84ae7fb6139b947c;ASB Münsterland Büro Hiltrup;51.906299987764235;7.639399993996788;Hohe Geest 21;48165;Münster;Mo-Fr 09:00-16:00;https://www.asb-muensterland.de/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
 d910e56cc84344d7a8f00142de5fe3b8;STA Travel Münster;51.963342107815365;7.618399889962003;Frauenstr. 25;48143;Münster;;https://www.statravel.de/;"Öffnungszeiten
 Mo-Fr: 10:00-19:00 Uhr
 Sa: 10:00-14:00 Uhr
 
 ";2019-09-11;CC0-1.0
-05d3c74afef344178019014fc83b9a01;Cibaria BioVollkornbäckerei;51.95070001853197;7.645000027327333;Am Mittelhafen 46;48155;Münster;Mo-Fr 10.00 - 16.00 Uhr;https://www.cibaria.de/;Ökologisch-biologische Vollkornbäckerei direkt an der Hafenpromenade;2025-08-11;CC0-1.0
-2eec414740bd409e9ba5eaef95a40fd6;a.cat - kollektiv für kultur, café & kneipe;51.95599997972883;7.6325000113027635;Herwarthstraße 7;48143;Münster;"We-Fr 19:00-00:00; Sa 14:00-00:00";https://www.a-cat.ms/;Wir sind eine Kulturkneipe, in der Konzerte, Vorträge und queere Veranstaltungen stattfinden.;2025-07-21;CC0-1.0
-b9cd1a3e936a4fe1851a756b8e1b87c4;Haus der Nachhaltigkeit;51.9548999806656;7.626499993552686;Hammer Str. 1;48153;Münster;Di+Do 10-12 und 14-16 Uhr, Mi 10-12 und 14-17 Uhr, Fr 10-12, 2. Sa im Monat 10-14 Uhr;https://www.stadt-muenster.de/umwelt/nachhaltigkeit/haus-der-nachhaltigkeit;Das Haus der Nachhaltigkeit ist die städtische Anlaufstelle für Bürger*innen rund um Fragen zu nachhaltigen Konsum- und Lebensweisen, insbesondere zu Natur-, Umwelt- und Klimaschutzthemen. ;2026-06-25;CC0-1.0
-ddaa5c70d7154477ba3d3e61d5c5968e;Stadt Münster - Vermessungs- und Katasteramt;51.94919999313969;7.640600031074416;Albersloher Weg 33 ;48155 ;Münster;;https://www.stadt-muenster.de/katasteramt/startseite.html;Die Stadtverwaltung Münster betreibt ein Geoportal;2023-11-02;CC0-1.0
-1f22ba9e68954e17a18f63847c3ee949;Starbucks Münster Hauptbahnhof;51.95671239958923;7.634050411933125;Berliner Platz 8-10;48143;Münster;;;"Öffnungszeiten:
-Mo-Sa 06:00-22:00 So 06:30-21:00
-
-";2019-08-19;CC0-1.0
+db881edac74d4698a3de32ff255621ad;Stromspar-Check;51.98085169400128;7.6140631770780605;Kinderhauser Straße 102;48147;Münster;;http://www.caritas-ms.de/hilfe-beratung/stromsparcheck/;Kostenlose Energieberatung der Caritas für Haushalte mit geringem Einkommen in Münster;2020-03-04;CC0-1.0
 dbd5b8288cbd48738c0c4aab75b334b6;Starbucks;51.959431866164984;7.628828905349983;Hanse Carree;48143;Münster;;https://www.starbucks.de/;"Öffnungszeiten:
 Mo-Fr 07:30-20:30 Sa 08:00-21:00 So 09:00-20:00";2019-08-08;CC0-1.0
+ddaa5c70d7154477ba3d3e61d5c5968e;Stadt Münster - Vermessungs- und Katasteramt;51.94919999313969;7.640600031074416;Albersloher Weg 33 ;48155 ;Münster;;https://www.stadt-muenster.de/katasteramt/startseite.html;Die Stadtverwaltung Münster betreibt ein Geoportal;2023-11-02;CC0-1.0
+de7c983faf2f45f387475a0efe98f758;Servicezentrum und Münster Information;51.96140320597282;7.629614960229777;Heinrich-Brüning-Straße 7;48143;Münster;"Mo-Fr 8-18 Uhr; Sa 8-16 Uhr";https://www.stadt-muenster.de/;Frischwasser zum Abzapfen im Stadthaus 1;2021-06-09;CC0-1.0
+e12ac7f554e843f08d6a1c571eed9df8;Unterwegs Outdoor GmbH;51.96519999856371;7.622599977824185;Rosenstraße 5-6;48143;Münster;;https://www.unterwegs-muenster.de/;"Öffnungszeiten:
+Mo - Fr: 10:00 - 18:30
+Sa: 10:00 - 18:00";2024-08-07;CC0-1.0
+e180ab75389a405a92f2be0abeb267ba;TravelWorks (Travelplus Group GmbH);51.929948018831176;7.7194350155626585;Münsterstr. 111;48155;Münster;;https://www.travelworks.de/;"Öffnungszeiten:
+Mo - Fr 09:00h-18:00h";2019-08-03;CC0-1.0
+e1a164dd17ac447c965714304dac444d;Andreas Döpker Friseure;51.955842693315745;7.625340776343523;Ludgeriplatz 11-13;48151;Münster;;https://www.doepker-friseure.de/;"Öffnungszeiten
+Di,Mi, Fr 10.00h - 19.00h
+Do 10.00h - 20.00h
+Sa 09.00h - 16.00h";2019-08-26;CC0-1.0
+e265bcca7bcb4284bc1a468a45ced24c;Kundenservicecenter Stadtwerke Münster;51.95041335744337;7.638621399010821;Hafenplatz 1;48155;Münster;Mo-Fr: 09:00 - 16:00 Uhr;https://www.stadtwerke-muenster.de/;"Kostenloses Trinkwasser
+";2025-03-30;CC0-1.0
+e2859a3fa72c4315acc986017ea58776;Onkel Alex;51.90435249447094;7.644922578541991;Marktallee 41;48165;Münster Hiltrup;Mo-Fr 10-18;https://onkel-alex.de/;"Öffnungszeiten
+MO-FR: 10-18 Uhr
+
+Wir sind barrierefrei";2025-07-09;CC0-1.0
+e32dcd4efdbf45bab5db1afcc409431c;The Body Shop;51.960324999857846;7.624085167247841;Aegidiistr. 3;48143;Münster;;;"Öffnungszeiten
+Mo - Fr  9.30 - 19.00 Uhr
+Sa         9.30 - 18.00 Uhr";2019-08-06;CC0-1.0
+e462ce2809104e89b3f3b134031a7a12;ASB Alfred-Bernstein-Kita;51.911499994765734;7.7256999852721115;Petersdamm 13;48167;Münster;Mo-Fr 07:00-16:00;https://www.asb-muensterland.de/angebote/kinder-jugend/alfred-bernstein-kita/;Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+e8f41950a5d7428aa346a6cb87f1d8a4;ASB Familienzentrum Grünschleife;51.99769998993617;7.595500027572504;Carlo-Schmid-Weg 2;48159;Münster;Mo-Fr 07:00-16:00;https://www.asb-muensterland.de/angebote/kinder-jugend/familienzentrum-gruenschleife/;Kindertageseinrichtung Arbeiter-Samariter-Bund Regionalverband Münsterland e.V.;2026-06-11;CC0-1.0
+e973a5656c3d4f0985317de457c631d2;interface medien GmbH;51.93838976879529;7.628409977829275;Scheibenstraße, 119;48153;Münster;Mo-Fr 09:00-16:00;https://www.interface-medien.de/;interface medien ist ein in der Digitalmetropole Münster hervorragend vernetztes IT-, Beratungs- und Marketingunternehmen mit über 20-jähriger Erfahrung. Unser Sitz ist das Kreativzentrum „Skaters Palace“. ;2022-03-29;CC0-1.0
+ed0e8e8c23744f48bbd92cb633a49c2e;Blumenhaus Harbaum;51.95960000714268;7.611899975506542;Himmelreichallee 45;48149;Münster;Mo-Fr 8-17Uhr Sa 8-13Uhr Mi nachmittags geschlossen;;Sowohl im Geschäft als auch im Außenverkauf ist das auffüllen deiner Trinkflasche mit Leitungswasser möglich !;2025-07-01;CC0-1.0
+ed5828d13372495089c8ec95af6e9d52;KüchenTreff Münster;51.99323130398673;7.570062879272766;Haus Uhlenkotten 6;48159;Münster;10:00 - 18:00;https://www.kuechentreff-muenster.de/;"#kuechen
+#kuechentreff";2021-09-17;CC0-1.0
+ee62ea35a910446e81de5ce9b127cc65;Medizin-Bibliothek;51.960899998415684;7.599199967272207;Albert-Schweitzer-Campus 1, Gebäude A11;48149;Münster;Mo-Do: 08-24 Uhr, Fr: 08-22 Uhr, Sa-So: 10-22 Uhr, Feiertage geschlossen.;https://www.uni-muenster.de/MediBib;Gebäude A11 auf dem Klinikgelände, Hahn befindet sich im Bistro im Erdgeschoss bei den Automaten, Trinkwasser im Erdgeschoss auch via Aufzug erreichbar.;2026-04-01;CC0-1.0
+f212c76a1d6a43b89b5babf6e56c4f74;Frau Többen green.fair.fashion;51.95339999718284;7.626100009133155;Hammer Straße 25;48153;Münster;"Mo - Fr 10.00 - 18.30 Uhr; Sa 10.00 - 17.00 Uhr";https://www.frautoebben.de/;"Öffnungszeiten
+Mo - Fr 10.00 - 18.30 Uhr
+Sa 10.00 - 17.00 Uhr";2025-09-23;CC0-1.0
+f3fa35641ecd4d579ba2b30b8c4590ce;Adler Vital;51.96227328943195;7.629151943898365;Salzstraße 58;48143;Münster;;https://www.muenster-gesundheit.de/;"Reformhaus
+Öffnungszeiten
+Mo-Fr: 8:30-18:30 Uhr
+Sa:       9:00-18:00 Uhr
+";2020-01-10;CC0-1.0
+f511209134b141f980a8090e2012b35f;Lückertz Reisebüro GmbH;51.960683703404236;7.632738895543263;Salzstraße 36;48143;Münster;;https://www.ww.lueckertz.de/;"Mo - Fr von 09:30 - 19:00 Uhr
+Sa von 10:00 - 18:00 Uhr";2019-10-01;CC0-1.0
+f6ff7610675847f99b27f67c3d7e847d;Volkshochschule Münster / Weiterbildungszentrum;51.960299979876865;7.623400030482281;Aegidiistraße 70;48143;Münster;Montag bis Sonntag: 8:00 – 22:00 Uhr;https://www.stadt-muenster.de/vhs;Frischwasser zum Abzapfen gibt es bei uns in der 1. und 2. Etage;2024-12-05;CC0-1.0
