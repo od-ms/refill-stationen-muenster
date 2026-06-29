@@ -3,7 +3,7 @@ name: Rebuild
 on: 
   push: {branches: [main]}
 
-  # run once every month
+  # run every 2 days
   schedule: [{cron: "4 4 */2 * *"}]
 
   # enable manual runs
