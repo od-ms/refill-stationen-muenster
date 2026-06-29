@@ -351,24 +351,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.622599977824185,
-          51.96519999856371
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten:\nMo - Fr: 10:00 - 18:30\nSa: 10:00 - 18:00",
-        "Homepage": "https://www.unterwegs-muenster.de/",
-        "ID": "e12ac7f554e843f08d6a1c571eed9df8",
-        "Name": "Unterwegs Outdoor GmbH",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Rosenstra\u00dfe 5-6"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           7.613301681174572,
           51.95013168358716
         ],
@@ -382,6 +364,24 @@
         "PLZ": "48143",
         "Stra\u00dfe": "Hauptbahnhof M\u00fcnster Gleis 9/12",
         "\u00d6ffnungszeiten": "Mo-Fr 8:00-20:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.622599977824185,
+          51.96519999856371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo - Fr: 10:00 - 18:30\nSa: 10:00 - 18:00",
+        "Homepage": "https://www.unterwegs-muenster.de/",
+        "ID": "e12ac7f554e843f08d6a1c571eed9df8",
+        "Name": "Unterwegs Outdoor GmbH",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Rosenstra\u00dfe 5-6"
       },
       "type": "Feature"
     },
@@ -406,6 +406,24 @@
     {
       "geometry": {
         "coordinates": [
+          7.630868976763854,
+          51.96417111994893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Fr  9.30 - 18.30 Uhr\nSa       10.00 - 16.00 Uhr",
+        "Homepage": "https://www.new-optics.de/",
+        "ID": "787678f720f04f718b33b71a560306af",
+        "Name": "New Optics by Martin Newels",
+        "PLZ": "48134",
+        "Stra\u00dfe": "B\u00fclt 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           7.6410280948695855,
           51.959481906126946
         ],
@@ -424,108 +442,18 @@
     {
       "geometry": {
         "coordinates": [
-          7.6147157082402686,
-          51.95763709114755
+          7.665622694262128,
+          51.996284705585005
         ],
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo - Do 09:00 - 16:00\nFr 09 - 14:00",
-        "Homepage": "https://www.overschmidt.de/",
-        "ID": "6862046c308b4cefa9179366521730fb",
-        "Name": "Overschmidt Yachtschule",
-        "PLZ": "48149",
-        "Stra\u00dfe": "Annette-Allee 1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.6349495386867545,
-          51.96088650355157
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten:\nMo. - Fr. 8-17 Uhr",
-        "Homepage": "https://www.zaquensis.de/",
-        "ID": "9926dec688054cd09ae37ae652ba4079",
-        "Name": "ZAQUENSIS Service-Center M\u00fcnster",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Eisenbahnstra\u00dfe 11"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.6210814284258905,
-          51.9636257095093
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMontag - Freitag 10 - 18 Uhr \nSamstag 11 - 14:30 Uhr",
-        "Homepage": "https://www.latienda-weltladen.de/",
-        "ID": "37f092e693ab408fab78d91803abc7d8",
-        "Name": "la tienda e.V.",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Frauenstra\u00dfe 7"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.625340776343523,
-          51.955842693315745
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nDi,Mi, Fr 10.00h - 19.00h\nDo 10.00h - 20.00h\nSa 09.00h - 16.00h",
-        "Homepage": "https://www.doepker-friseure.de/",
-        "ID": "e1a164dd17ac447c965714304dac444d",
-        "Name": "Andreas D\u00f6pker Friseure",
-        "PLZ": "48151",
-        "Stra\u00dfe": "Ludgeriplatz 11-13"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.628006892105567,
-          51.95802571808827
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 10:30h-19h\nSa 10h-16h",
-        "Homepage": "https://www.auszeit.ms/",
-        "ID": "9076483061f24582a7aa8150a36a051e",
-        "Name": "Auszeit - Mein Tag am Meer",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Beelertstiege 5-6"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.630868976763854,
-          51.96417111994893
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo - Fr  9.30 - 18.30 Uhr\nSa       10.00 - 16.00 Uhr",
-        "Homepage": "https://www.new-optics.de/",
-        "ID": "787678f720f04f718b33b71a560306af",
-        "Name": "New Optics by Martin Newels",
-        "PLZ": "48134",
-        "Stra\u00dfe": "B\u00fclt 7"
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 08:00-16:00 Uhr",
+        "Homepage": "https://www.johanniter.de/dienstleistungen/pflege-und-beratung/pflegedienste/ambulante-pflegedienste/",
+        "ID": "7d7b98a548114cc6a0f6ce050b7ec6ed",
+        "Name": "Johanniter-Unfall-Hilfe e.V. Pflegestation Nord",
+        "PLZ": "48157",
+        "Stra\u00dfe": "An der alten Ziegelei 20"
       },
       "type": "Feature"
     },
@@ -567,18 +495,18 @@
     {
       "geometry": {
         "coordinates": [
-          7.625146232370821,
-          51.960438909922
+          7.6349495386867545,
+          51.96088650355157
         ],
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo-Sa 10h-19h",
-        "Homepage": "https://www.adenauer.com/",
-        "ID": "c49b8b24ff8b4dbca24a0dd74ef47901",
-        "Name": "Adenauer & Co Strandhaus M\u00fcnster",
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo. - Fr. 8-17 Uhr",
+        "Homepage": "https://www.zaquensis.de/",
+        "ID": "9926dec688054cd09ae37ae652ba4079",
+        "Name": "ZAQUENSIS Service-Center M\u00fcnster",
         "PLZ": "48143",
-        "Stra\u00dfe": "Rothenburg 14-16"
+        "Stra\u00dfe": "Eisenbahnstra\u00dfe 11"
       },
       "type": "Feature"
     },
@@ -603,18 +531,54 @@
     {
       "geometry": {
         "coordinates": [
-          7.665622694262128,
-          51.996284705585005
+          7.6210814284258905,
+          51.9636257095093
         ],
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 08:00-16:00 Uhr",
-        "Homepage": "https://www.johanniter.de/dienstleistungen/pflege-und-beratung/pflegedienste/ambulante-pflegedienste/",
-        "ID": "7d7b98a548114cc6a0f6ce050b7ec6ed",
-        "Name": "Johanniter-Unfall-Hilfe e.V. Pflegestation Nord",
-        "PLZ": "48157",
-        "Stra\u00dfe": "An der alten Ziegelei 20"
+        "Beschreibung": "\u00d6ffnungszeiten\nMontag - Freitag 10 - 18 Uhr \nSamstag 11 - 14:30 Uhr",
+        "Homepage": "https://www.latienda-weltladen.de/",
+        "ID": "37f092e693ab408fab78d91803abc7d8",
+        "Name": "la tienda e.V.",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Frauenstra\u00dfe 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.628006892105567,
+          51.95802571808827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 10:30h-19h\nSa 10h-16h",
+        "Homepage": "https://www.auszeit.ms/",
+        "ID": "9076483061f24582a7aa8150a36a051e",
+        "Name": "Auszeit - Mein Tag am Meer",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Beelertstiege 5-6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.625146232370821,
+          51.960438909922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo-Sa 10h-19h",
+        "Homepage": "https://www.adenauer.com/",
+        "ID": "c49b8b24ff8b4dbca24a0dd74ef47901",
+        "Name": "Adenauer & Co Strandhaus M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Rothenburg 14-16"
       },
       "type": "Feature"
     },
@@ -638,38 +602,36 @@
     {
       "geometry": {
         "coordinates": [
-          7.640185294505295,
-          51.903061346105794
+          7.6147157082402686,
+          51.95763709114755
         ],
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten Freitag 10-17 Uhr",
-        "Homepage": "https://www.dorodotdesign.de/",
-        "ID": "5faf2cd8b7464e8db3d31ee2dd555bd5",
-        "Name": "Doro Dot Design Kleidung & Accessoires",
-        "PLZ": "48165",
-        "Stra\u00dfe": "Marktallee 18",
-        "\u00d6ffnungszeiten": "Fr 10-17"
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Do 09:00 - 16:00\nFr 09 - 14:00",
+        "Homepage": "https://www.overschmidt.de/",
+        "ID": "6862046c308b4cefa9179366521730fb",
+        "Name": "Overschmidt Yachtschule",
+        "PLZ": "48149",
+        "Stra\u00dfe": "Annette-Allee 1"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          7.628409977829275,
-          51.93838976879529
+          7.625340776343523,
+          51.955842693315745
         ],
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "interface medien ist ein in der Digitalmetropole M\u00fcnster hervorragend vernetztes IT-, Beratungs- und Marketingunternehmen mit \u00fcber 20-j\u00e4hriger Erfahrung. Unser Sitz ist das Kreativzentrum \u201eSkaters Palace\u201c. ",
-        "Homepage": "https://www.interface-medien.de/",
-        "ID": "e973a5656c3d4f0985317de457c631d2",
-        "Name": "interface medien GmbH",
-        "PLZ": "48153",
-        "Stra\u00dfe": "Scheibenstra\u00dfe, 119",
-        "\u00d6ffnungszeiten": "Mo-Fr 09:00-16:00"
+        "Beschreibung": "\u00d6ffnungszeiten\nDi,Mi, Fr 10.00h - 19.00h\nDo 10.00h - 20.00h\nSa 09.00h - 16.00h",
+        "Homepage": "https://www.doepker-friseure.de/",
+        "ID": "e1a164dd17ac447c965714304dac444d",
+        "Name": "Andreas D\u00f6pker Friseure",
+        "PLZ": "48151",
+        "Stra\u00dfe": "Ludgeriplatz 11-13"
       },
       "type": "Feature"
     },
@@ -695,6 +657,44 @@
     {
       "geometry": {
         "coordinates": [
+          7.628409977829275,
+          51.93838976879529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "interface medien ist ein in der Digitalmetropole M\u00fcnster hervorragend vernetztes IT-, Beratungs- und Marketingunternehmen mit \u00fcber 20-j\u00e4hriger Erfahrung. Unser Sitz ist das Kreativzentrum \u201eSkaters Palace\u201c. ",
+        "Homepage": "https://www.interface-medien.de/",
+        "ID": "e973a5656c3d4f0985317de457c631d2",
+        "Name": "interface medien GmbH",
+        "PLZ": "48153",
+        "Stra\u00dfe": "Scheibenstra\u00dfe, 119",
+        "\u00d6ffnungszeiten": "Mo-Fr 09:00-16:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.640185294505295,
+          51.903061346105794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten Freitag 10-17 Uhr",
+        "Homepage": "https://www.dorodotdesign.de/",
+        "ID": "5faf2cd8b7464e8db3d31ee2dd555bd5",
+        "Name": "Doro Dot Design Kleidung & Accessoires",
+        "PLZ": "48165",
+        "Stra\u00dfe": "Marktallee 18",
+        "\u00d6ffnungszeiten": "Fr 10-17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           7.601700037532346,
           51.93020002075015
         ],
@@ -707,6 +707,63 @@
         "Name": "Johanniter-Unfall-Hilfe e.V. Regionalgesch\u00e4ftsst.",
         "PLZ": "48163",
         "Stra\u00dfe": "Geringhoffstra\u00dfe 45/47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6266999857624524,
+          51.95720001680646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Bei uns im Kundencenter f\u00fcllen wir Ihre Flasche gerne wieder auf. ",
+        "Homepage": "https://www.aok.de/pk/nordwest/",
+        "ID": "b1b415712cd24183a0269773dc4d8259",
+        "Name": "AOK NordWest Kundencenter M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "K\u00f6nigsstra\u00dfe 18/20",
+        "\u00d6ffnungszeiten": "Mo und Do: 08:30 - 18:00 Uhr, Di 08:30 - 17:00 Uhr, Mi und Fr 08:30 - 14:00 Uhr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.570062879272766,
+          51.99323130398673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "#kuechen\n#kuechentreff",
+        "Homepage": "https://www.kuechentreff-muenster.de/",
+        "ID": "ed5828d13372495089c8ec95af6e9d52",
+        "Name": "K\u00fcchenTreff M\u00fcnster",
+        "PLZ": "48159",
+        "Stra\u00dfe": "Haus Uhlenkotten 6",
+        "\u00d6ffnungszeiten": "10:00 - 18:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.644922578541991,
+          51.90435249447094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMO-FR: 10-18 Uhr\n\nWir sind barrierefrei",
+        "Homepage": "https://onkel-alex.de/",
+        "ID": "e2859a3fa72c4315acc986017ea58776",
+        "Name": "Onkel Alex",
+        "PLZ": "48165",
+        "Stra\u00dfe": "Marktallee 41",
+        "\u00d6ffnungszeiten": "Mo-Fr 10-18"
       },
       "type": "Feature"
     },
@@ -761,63 +818,6 @@
         "Name": "Das Sch\u00f6nwerk",
         "PLZ": "48145",
         "Stra\u00dfe": "Warendorfer Stra\u00dfe 71"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.644922578541991,
-          51.90435249447094
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMO-FR: 10-18 Uhr\n\nWir sind barrierefrei",
-        "Homepage": "https://onkel-alex.de/",
-        "ID": "e2859a3fa72c4315acc986017ea58776",
-        "Name": "Onkel Alex",
-        "PLZ": "48165",
-        "Stra\u00dfe": "Marktallee 41",
-        "\u00d6ffnungszeiten": "Mo-Fr 10-18"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.6266999857624524,
-          51.95720001680646
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "Bei uns im Kundencenter f\u00fcllen wir Ihre Flasche gerne wieder auf. ",
-        "Homepage": "https://www.aok.de/pk/nordwest/",
-        "ID": "b1b415712cd24183a0269773dc4d8259",
-        "Name": "AOK NordWest Kundencenter M\u00fcnster",
-        "PLZ": "48143",
-        "Stra\u00dfe": "K\u00f6nigsstra\u00dfe 18/20",
-        "\u00d6ffnungszeiten": "Mo und Do: 08:30 - 18:00 Uhr, Di 08:30 - 17:00 Uhr, Mi und Fr 08:30 - 14:00 Uhr"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.570062879272766,
-          51.99323130398673
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "#kuechen\n#kuechentreff",
-        "Homepage": "https://www.kuechentreff-muenster.de/",
-        "ID": "ed5828d13372495089c8ec95af6e9d52",
-        "Name": "K\u00fcchenTreff M\u00fcnster",
-        "PLZ": "48159",
-        "Stra\u00dfe": "Haus Uhlenkotten 6",
-        "\u00d6ffnungszeiten": "10:00 - 18:00"
       },
       "type": "Feature"
     },
@@ -916,6 +916,24 @@
     {
       "geometry": {
         "coordinates": [
+          7.631650589234964,
+          51.94991082043848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nDi - Fr 10h-18h\nSa 10h-13h",
+        "Homepage": "https://www.die-marmeladenmanufaktur.de/",
+        "ID": "0d0d62534882440d9c509f1aaa76157b",
+        "Name": "Die Marmeladenmanufaktur",
+        "PLZ": "48153",
+        "Stra\u00dfe": "Bl\u00fccherstra\u00dfe 16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           7.63640455325898,
           51.95343448871441
         ],
@@ -929,24 +947,6 @@
         "PLZ": "48155",
         "Stra\u00dfe": "Bremer Stra\u00dfe 56",
         "\u00d6ffnungszeiten": "Mo-Fr 7.30-17.30 Uhr Sa 7.30-12-00"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.631650589234964,
-          51.94991082043848
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nDi - Fr 10h-18h\nSa 10h-13h",
-        "Homepage": "https://www.die-marmeladenmanufaktur.de/",
-        "ID": "0d0d62534882440d9c509f1aaa76157b",
-        "Name": "Die Marmeladenmanufaktur",
-        "PLZ": "48153",
-        "Stra\u00dfe": "Bl\u00fccherstra\u00dfe 16"
       },
       "type": "Feature"
     },
