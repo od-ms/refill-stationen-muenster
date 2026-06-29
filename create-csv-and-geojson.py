@@ -32,15 +32,17 @@ logging.debug("(headline font = '%s')", HEADLINE_FONT)
 # HEADLINE_FONT = "cosmic"
 
 # Links zur API von https://refill-deutschland.de/ :
+# Dokumentation unter: https://app.swaggerhub.com/apis/Kartevonmorgen/openfairdb/
+# Github Repo: https://github.com/kartevonmorgen/openfairdb
 # Die Daten stehen anscheinend unter der Lizenz CC0-V1
-SOURCE_URL = 'https://api.ofdb.io/v0/search?bbox=51.88730730025642%2C7.520301570620901%2C52.027579043215226%2C7.731788387027151&text=refill%2C%20refill%20station%2C%20leitungswasser%2C%20trinkwasser%2C%20refill-sticker&categories=2cd00bebec0c48ba9db761da48678134%2C77b3c33a92554bcf8e8c2c86cedd6f6f'
+SOURCE_URL = 'https://api.ofdb.io/v0/search?bbox=51.88730730025642%2C7.520301570620901%2C52.027579043215226%2C7.731788387027151&text=refill%2C%20refill-station%2C%20refill%20station%2C%20leitungswasser%2C%20trinkwasser%2C%20refill-sticker&categories=2cd00bebec0c48ba9db761da48678134%2C77b3c33a92554bcf8e8c2c86cedd6f6f&limit=1000'
             #'https://api.ofdb.io/v0/search?bbox=51.927648559470114%2C7.52391815185547%2C51.98900306873843%2C7.678413391113282&text=refill%20refill-station%20refill-trinkbrunnen%20refill-sticker%20trinkwasser%20leitungswasser&categories=2cd00bebec0c48ba9db761da48678134%2C77b3c33a92554bcf8e8c2c86cedd6f6f'
 BASE_URL = 'https://api.ofdb.io/v0/' # dieser string wird für die cachedateinamen entfernt
 
 
 def read_url_with_cache(url):
     """ Read URLs only once, and cache them to files """
-    filename = f'cache/{format(re.sub("[^0-9a-zA-Z]+", "_", url.replace(BASE_URL, "")))[0:250]}'
+    filename = f'cache/{format(re.sub("[^0-9a-zA-Z]+", "_", url.replace(BASE_URL, "")))[0:200]}.json'
 
     current_ts = time.time()
     cache_max_age = 60 * 60 * 23  # 23 hours
@@ -101,7 +103,7 @@ def wget_stationen(geojson_url):
 
         # Achtung: station_data response is an array with only 1 entry..
         stationen_list.append(station_data[0])
-
+    stationen_list.sort(key=lambda x: x['id'])
     return stationen_list
 
 
