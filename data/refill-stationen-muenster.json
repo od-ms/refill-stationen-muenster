@@ -388,24 +388,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.7194350155626585,
-          51.929948018831176
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten:\nMo - Fr 09:00h-18:00h",
-        "Homepage": "https://www.travelworks.de/",
-        "ID": "e180ab75389a405a92f2be0abeb267ba",
-        "Name": "TravelWorks (Travelplus Group GmbH)",
-        "PLZ": "48155",
-        "Stra\u00dfe": "M\u00fcnsterstr. 111"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           7.630868976763854,
           51.96417111994893
         ],
@@ -460,17 +442,36 @@
     {
       "geometry": {
         "coordinates": [
-          7.658828826462305,
-          51.96690030953237
+          7.6147157082402686,
+          51.95763709114755
         ],
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo - Do 9:00 - 18:00 Uhr\nFr 9:00 - 17:00 Uhr",
-        "ID": "25a221d7a62a4485abf229a017044076",
-        "Name": "Ska Treff",
-        "PLZ": "48145",
-        "Stra\u00dfe": "Skagerrakstrasse 2"
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Do 09:00 - 16:00\nFr 09 - 14:00",
+        "Homepage": "https://www.overschmidt.de/",
+        "ID": "6862046c308b4cefa9179366521730fb",
+        "Name": "Overschmidt Yachtschule",
+        "PLZ": "48149",
+        "Stra\u00dfe": "Annette-Allee 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.625340776343523,
+          51.955842693315745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nDi,Mi, Fr 10.00h - 19.00h\nDo 10.00h - 20.00h\nSa 09.00h - 16.00h",
+        "Homepage": "https://www.doepker-friseure.de/",
+        "ID": "e1a164dd17ac447c965714304dac444d",
+        "Name": "Andreas D\u00f6pker Friseure",
+        "PLZ": "48151",
+        "Stra\u00dfe": "Ludgeriplatz 11-13"
       },
       "type": "Feature"
     },
@@ -489,42 +490,6 @@
         "Name": "Umwelthaus M\u00fcnster",
         "PLZ": "48145",
         "Stra\u00dfe": "Zumsandestra\u00dfe 15"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.6349495386867545,
-          51.96088650355157
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten:\nMo. - Fr. 8-17 Uhr",
-        "Homepage": "https://www.zaquensis.de/",
-        "ID": "9926dec688054cd09ae37ae652ba4079",
-        "Name": "ZAQUENSIS Service-Center M\u00fcnster",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Eisenbahnstra\u00dfe 11"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.62962133047619,
-          51.95827889347369
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten:\nMontag bis Freitag: 10:00 bis 19:00 Uhr \nSamstag: 09:30 bis 18:00 Uhr",
-        "Homepage": "https://www.trekking-koenig.de/filialen/muenster/",
-        "ID": "80a603c4d9b94d6784c9da343ca4187d",
-        "Name": "Trekking K\u00f6nig M\u00fcnster",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Windthorststra\u00dfe 35"
       },
       "type": "Feature"
     },
@@ -602,55 +567,71 @@
     {
       "geometry": {
         "coordinates": [
-          7.6147157082402686,
-          51.95763709114755
+          7.7194350155626585,
+          51.929948018831176
         ],
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo - Do 09:00 - 16:00\nFr 09 - 14:00",
-        "Homepage": "https://www.overschmidt.de/",
-        "ID": "6862046c308b4cefa9179366521730fb",
-        "Name": "Overschmidt Yachtschule",
-        "PLZ": "48149",
-        "Stra\u00dfe": "Annette-Allee 1"
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo - Fr 09:00h-18:00h",
+        "Homepage": "https://www.travelworks.de/",
+        "ID": "e180ab75389a405a92f2be0abeb267ba",
+        "Name": "TravelWorks (Travelplus Group GmbH)",
+        "PLZ": "48155",
+        "Stra\u00dfe": "M\u00fcnsterstr. 111"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          7.625340776343523,
-          51.955842693315745
+          7.658828826462305,
+          51.96690030953237
         ],
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nDi,Mi, Fr 10.00h - 19.00h\nDo 10.00h - 20.00h\nSa 09.00h - 16.00h",
-        "Homepage": "https://www.doepker-friseure.de/",
-        "ID": "e1a164dd17ac447c965714304dac444d",
-        "Name": "Andreas D\u00f6pker Friseure",
-        "PLZ": "48151",
-        "Stra\u00dfe": "Ludgeriplatz 11-13"
+        "Beschreibung": "\u00d6ffnungszeiten\nMo - Do 9:00 - 18:00 Uhr\nFr 9:00 - 17:00 Uhr",
+        "ID": "25a221d7a62a4485abf229a017044076",
+        "Name": "Ska Treff",
+        "PLZ": "48145",
+        "Stra\u00dfe": "Skagerrakstrasse 2"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          7.654200004252698,
-          51.949700015573626
+          7.6349495386867545,
+          51.96088650355157
         ],
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "Medienunternehmen",
-        "Homepage": "https://www.rums.ms/",
-        "ID": "44fe8568215b4559b68472d4defff28d",
-        "Name": "RUMS M\u00fcnster",
-        "PLZ": "M\u00fcnster",
-        "Stra\u00dfe": "Neubr\u00fcckenstra\u00dfe 8-11",
-        "\u00d6ffnungszeiten": "10 Uhr -16.30 Uhr"
+        "Beschreibung": "\u00d6ffnungszeiten:\nMo. - Fr. 8-17 Uhr",
+        "Homepage": "https://www.zaquensis.de/",
+        "ID": "9926dec688054cd09ae37ae652ba4079",
+        "Name": "ZAQUENSIS Service-Center M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Eisenbahnstra\u00dfe 11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.62962133047619,
+          51.95827889347369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten:\nMontag bis Freitag: 10:00 bis 19:00 Uhr \nSamstag: 09:30 bis 18:00 Uhr",
+        "Homepage": "https://www.trekking-koenig.de/filialen/muenster/",
+        "ID": "80a603c4d9b94d6784c9da343ca4187d",
+        "Name": "Trekking K\u00f6nig M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Windthorststra\u00dfe 35"
       },
       "type": "Feature"
     },
@@ -670,6 +651,25 @@
         "PLZ": "48153",
         "Stra\u00dfe": "Scheibenstra\u00dfe, 119",
         "\u00d6ffnungszeiten": "Mo-Fr 09:00-16:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.654200004252698,
+          51.949700015573626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Medienunternehmen",
+        "Homepage": "https://www.rums.ms/",
+        "ID": "44fe8568215b4559b68472d4defff28d",
+        "Name": "RUMS M\u00fcnster",
+        "PLZ": "M\u00fcnster",
+        "Stra\u00dfe": "Neubr\u00fcckenstra\u00dfe 8-11",
+        "\u00d6ffnungszeiten": "10 Uhr -16.30 Uhr"
       },
       "type": "Feature"
     },
@@ -707,6 +707,60 @@
         "Name": "Johanniter-Unfall-Hilfe e.V. Regionalgesch\u00e4ftsst.",
         "PLZ": "48163",
         "Stra\u00dfe": "Geringhoffstra\u00dfe 45/47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.632738895543263,
+          51.960683703404236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Mo - Fr von 09:30 - 19:00 Uhr\nSa von 10:00 - 18:00 Uhr",
+        "Homepage": "https://www.ww.lueckertz.de/",
+        "ID": "f511209134b141f980a8090e2012b35f",
+        "Name": "L\u00fcckertz Reiseb\u00fcro GmbH",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Salzstra\u00dfe 36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.628288691690326,
+          51.9620569944205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMo. - Sa. 9.30 - 19.00 Uhr",
+        "Homepage": "https://www.petzhold.de/",
+        "ID": "c5f3b666968745eabbff90d2e0a7547f",
+        "Name": "Heinrich Petzhold GmbH&Co. KG",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Prinzipalmarkt 5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.645032213835527,
+          51.96302091328568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "\u00d6ffnungszeiten\nMontag - Freitag: 10.00 - 18.30 Uhr\nSamstag 10.00 - 14.00 Uhr",
+        "Homepage": "https://www.dasschoenwerk.de/",
+        "ID": "28b1c4937b554d5fa7870f0937eec155",
+        "Name": "Das Sch\u00f6nwerk",
+        "PLZ": "48145",
+        "Stra\u00dfe": "Warendorfer Stra\u00dfe 71"
       },
       "type": "Feature"
     },
@@ -764,60 +818,6 @@
         "PLZ": "48165",
         "Stra\u00dfe": "Marktallee 41",
         "\u00d6ffnungszeiten": "Mo-Fr 10-18"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.628288691690326,
-          51.9620569944205
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo. - Sa. 9.30 - 19.00 Uhr",
-        "Homepage": "https://www.petzhold.de/",
-        "ID": "c5f3b666968745eabbff90d2e0a7547f",
-        "Name": "Heinrich Petzhold GmbH&Co. KG",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Prinzipalmarkt 5"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.632738895543263,
-          51.960683703404236
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "Mo - Fr von 09:30 - 19:00 Uhr\nSa von 10:00 - 18:00 Uhr",
-        "Homepage": "https://www.ww.lueckertz.de/",
-        "ID": "f511209134b141f980a8090e2012b35f",
-        "Name": "L\u00fcckertz Reiseb\u00fcro GmbH",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Salzstra\u00dfe 36"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.645032213835527,
-          51.96302091328568
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMontag - Freitag: 10.00 - 18.30 Uhr\nSamstag 10.00 - 14.00 Uhr",
-        "Homepage": "https://www.dasschoenwerk.de/",
-        "ID": "28b1c4937b554d5fa7870f0937eec155",
-        "Name": "Das Sch\u00f6nwerk",
-        "PLZ": "48145",
-        "Stra\u00dfe": "Warendorfer Stra\u00dfe 71"
       },
       "type": "Feature"
     },
