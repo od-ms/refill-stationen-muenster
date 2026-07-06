@@ -1168,8 +1168,8 @@
     {
       "geometry": {
         "coordinates": [
-          7.625199960370176,
-          51.96250001991284
+          7.626100009133155,
+          51.95899998860387
         ],
         "type": "Point"
       },
@@ -1178,7 +1178,7 @@
         "ID": "caf4538293ae48d4bbfeb38c80856d9f",
         "Name": "AOK NordWest Kundencenter M\u00fcnster",
         "PLZ": "48143",
-        "Stra\u00dfe": "K\u00f6ngisstra\u00dfe 18/20"
+        "Stra\u00dfe": "K\u00f6nigsstra\u00dfe 18"
       },
       "type": "Feature"
     },
