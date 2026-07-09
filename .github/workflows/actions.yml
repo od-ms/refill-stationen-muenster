@@ -27,9 +27,15 @@ permissions:
 
 jobs:
   build:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
 
     steps:
+      - name: Dump GitHub context
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: echo "$GITHUB_CONTEXT"
+        
       - name: checkout repo content
         uses: actions/checkout@v6
 
