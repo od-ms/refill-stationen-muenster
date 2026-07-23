@@ -276,8 +276,8 @@
     {
       "geometry": {
         "coordinates": [
-          7.645032213835527,
-          51.96302091328568
+          7.625700024713622,
+          51.96409999950048
         ],
         "type": "Point"
       },
@@ -286,8 +286,8 @@
         "Homepage": "https://www.dasschoenwerk.de/",
         "ID": "28b1c4937b554d5fa7870f0937eec155",
         "Name": "Das Sch\u00f6nwerk",
-        "PLZ": "48145",
-        "Stra\u00dfe": "Warendorfer Stra\u00dfe 71"
+        "PLZ": "48143",
+        "Stra\u00dfe": "Spiekerhof 23-24"
       },
       "type": "Feature"
     },
@@ -907,6 +907,25 @@
     {
       "geometry": {
         "coordinates": [
+          7.579199991924316,
+          51.96700001227064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Wir freuen uns, Sie in unserer Apotheke begr\u00fc\u00dfen zu d\u00fcrfen!",
+        "Homepage": "https://gievenbecker-markt-apotheke.de/",
+        "ID": "a9431b1663134364bcb45421eb2cccfd",
+        "Name": "Gievenbecker Markt-Apotheke",
+        "PLZ": "48161",
+        "Stra\u00dfe": "Arnheimweg 9",
+        "\u00d6ffnungszeiten": "Mo-Fr 08:30-19:00; Sa 09:00-13:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           7.63640455325898,
           51.95343448871441
         ],
@@ -1198,6 +1217,25 @@
         "PLZ": "48165",
         "Stra\u00dfe": "Hohe Geest 21",
         "\u00d6ffnungszeiten": "Mo-Fr 09:00-16:00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.570399999418482,
+          51.95860000418434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Wir freuen uns, Sie in unserer Apotheke begr\u00fc\u00dfen zu d\u00fcrfen!",
+        "Homepage": "https://vital-apotheke-muenster.de/",
+        "ID": "cba33778069240278acb79a53d1e06d2",
+        "Name": "Vital Apotheke",
+        "PLZ": "48161",
+        "Stra\u00dfe": "Dieckmannstra\u00dfe 200",
+        "\u00d6ffnungszeiten": "Mo-Fr 08:30-19:00; Sa 09:00-15:00"
       },
       "type": "Feature"
     },
