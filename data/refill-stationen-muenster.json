@@ -112,24 +112,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.602300014161645,
-          51.95599997972883
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "refill leitungswasser",
-        "ID": "0fd53de760cb4e0aaae46e67df9731e9",
-        "Name": "Katholisch Soziale Akademie Franz Hitze Haus",
-        "PLZ": "48149",
-        "Stra\u00dfe": "Kardinal von Galen Ring 50",
-        "\u00d6ffnungszeiten": "Mo - Sa 8-18 Uhr, So 8-13 Uhr"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           7.622199993404653,
           51.964499983920014
         ],
@@ -475,24 +457,6 @@
         "Name": "Gudrun Sj\u00f6d\u00e9n GmbH - Konzeptladen M\u00fcnster",
         "PLZ": "48143",
         "Stra\u00dfe": "Prinzipalmarkt 48"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.635626796463331,
-          51.95577878130403
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "Die BM - M\u00fcnster ist Refill-Station, dort kann man kostenlos seine Wasserflasche auff\u00fcllen lassen. auf Gleis 12",
-        "ID": "52c37e7fc3284ffb8a2ebf5acb60a91f",
-        "Name": "Bahnhofsmission M\u00fcnster",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Berliner Platz 8-10",
-        "\u00d6ffnungszeiten": "Mo-Fr 8-20 und Sa-So 13-17"
       },
       "type": "Feature"
     },
@@ -1187,23 +1151,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.626100009133155,
-          51.95899998860387
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "Hier k\u00f6nnen Sie w\u00e4hrend der \u00d6ffnungszeiten ihre mitgebrachte Trinkflasche kostenlos auff\u00fcllen lassen.",
-        "ID": "caf4538293ae48d4bbfeb38c80856d9f",
-        "Name": "AOK NordWest Kundencenter M\u00fcnster",
-        "PLZ": "48143",
-        "Stra\u00dfe": "K\u00f6nigsstra\u00dfe 18"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           7.639399993996788,
           51.906299987764235
         ],
@@ -1290,24 +1237,6 @@
         "Name": "Starbucks",
         "PLZ": "48143",
         "Stra\u00dfe": "Hanse Carree"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.640600031074416,
-          51.94919999313969
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "Die Stadtverwaltung M\u00fcnster betreibt ein Geoportal",
-        "Homepage": "https://www.stadt-muenster.de/katasteramt/startseite.html",
-        "ID": "ddaa5c70d7154477ba3d3e61d5c5968e",
-        "Name": "Stadt M\u00fcnster - Vermessungs- und Katasteramt",
-        "PLZ": "48155 ",
-        "Stra\u00dfe": "Albersloher Weg 33 "
       },
       "type": "Feature"
     },
