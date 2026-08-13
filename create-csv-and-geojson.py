@@ -60,15 +60,35 @@ def read_url_with_cache(url):
                 filecontent = "".join(line.rstrip() for line in myfile)
 
     if generate_cache_file:
-        logging.debug("# URL HTTP GET %s ", filename)
-        req = requests.get(url, timeout=10)
-        if req.status_code > 399:
-            logging.warning('  - Request result: HTTP %s - %s', req.status_code, url)
+        max_retries = 2
+        for attempt in range(max_retries + 1):
+            logging.debug("# URL HTTP GET %s (attempt %s/%s)", filename, attempt + 1, max_retries + 1)
+            try:
+                req = requests.get(url, timeout=10)
+            except requests.RequestException as exc:
+                if attempt < max_retries:
+                    logging.warning('  - Request error for %s: %s. Retrying in 10 seconds...', url, exc)
+                    time.sleep(10)
+                    continue
+                logging.error('  - Request failed for %s after %s retries: %s', url, max_retries, exc)
+                raise SystemExit(1)
 
-        open(filename, 'wb').write(req.content)
-        filecontent = req.text
-        # lets wait a bit, dont kill a public server
-        time.sleep(1)
+            if req.status_code == 502:
+                if attempt < max_retries:
+                    logging.warning('  - HTTP 502 for %s. Retrying in 10 seconds... (%s/%s)', url, attempt + 1, max_retries)
+                    time.sleep(10)
+                    continue
+                logging.error('  - HTTP 502 for %s after %s retries. Exiting script.', url, max_retries)
+                raise SystemExit(1)
+
+            if req.status_code > 399:
+                logging.warning('  - Request result: HTTP %s - %s', req.status_code, url)
+
+            open(filename, 'wb').write(req.content)
+            filecontent = req.text
+            # lets wait a bit, dont kill a public server
+            time.sleep(1)
+            break
 
     jsn = json.loads(filecontent)
     if isinstance(jsn, list):
