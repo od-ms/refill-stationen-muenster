@@ -112,6 +112,24 @@
     {
       "geometry": {
         "coordinates": [
+          7.602300014161645,
+          51.95599997972883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "refill leitungswasser",
+        "ID": "0fd53de760cb4e0aaae46e67df9731e9",
+        "Name": "Katholisch Soziale Akademie Franz Hitze Haus",
+        "PLZ": "48149",
+        "Stra\u00dfe": "Kardinal von Galen Ring 50",
+        "\u00d6ffnungszeiten": "Mo - Sa 8-18 Uhr, So 8-13 Uhr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           7.622199993404653,
           51.964499983920014
         ],
@@ -463,6 +481,24 @@
     {
       "geometry": {
         "coordinates": [
+          7.635626796463331,
+          51.95577878130403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Beschreibung": "Die BM - M\u00fcnster ist Refill-Station, dort kann man kostenlos seine Wasserflasche auff\u00fcllen lassen. auf Gleis 12",
+        "ID": "52c37e7fc3284ffb8a2ebf5acb60a91f",
+        "Name": "Bahnhofsmission M\u00fcnster",
+        "PLZ": "48143",
+        "Stra\u00dfe": "Berliner Platz 8-10",
+        "\u00d6ffnungszeiten": "Mo-Fr 8-20 und Sa-So 13-17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           7.621500020670472,
           51.96380001118584
         ],
@@ -797,24 +833,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.628006892105567,
-          51.95802571808827
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo-Fr 10:30h-19h\nSa 10h-16h",
-        "Homepage": "https://www.auszeit.ms/",
-        "ID": "9076483061f24582a7aa8150a36a051e",
-        "Name": "Auszeit - Mein Tag am Meer",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Beelertstiege 5-6"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           7.635499978268286,
           51.96969999092151
         ],
@@ -965,8 +983,8 @@
     {
       "geometry": {
         "coordinates": [
-          7.6266999857624524,
-          51.95720001680646
+          7.626200005238037,
+          51.95899998860387
         ],
         "type": "Point"
       },
@@ -976,7 +994,7 @@
         "ID": "b1b415712cd24183a0269773dc4d8259",
         "Name": "AOK NordWest Kundencenter M\u00fcnster",
         "PLZ": "48143",
-        "Stra\u00dfe": "K\u00f6nigsstra\u00dfe 18/20",
+        "Stra\u00dfe": "K\u00f6nigsstra\u00dfe 18",
         "\u00d6ffnungszeiten": "Mo und Do: 08:30 - 18:00 Uhr, Di 08:30 - 17:00 Uhr, Mi und Fr 08:30 - 14:00 Uhr"
       },
       "type": "Feature"
@@ -1348,23 +1366,6 @@
         "PLZ": "48165",
         "Stra\u00dfe": "Marktallee 41",
         "\u00d6ffnungszeiten": "Mo-Fr 10-18"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.624085167247841,
-          51.960324999857846
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "\u00d6ffnungszeiten\nMo - Fr  9.30 - 19.00 Uhr\nSa         9.30 - 18.00 Uhr",
-        "ID": "e32dcd4efdbf45bab5db1afcc409431c",
-        "Name": "The Body Shop",
-        "PLZ": "48143",
-        "Stra\u00dfe": "Aegidiistr. 3"
       },
       "type": "Feature"
     },
