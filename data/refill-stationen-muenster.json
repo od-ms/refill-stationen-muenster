@@ -1546,13 +1546,13 @@
         "type": "Point"
       },
       "properties": {
-        "Beschreibung": "Frischwasser zum Abzapfen gibt es bei uns in der 1. und 2. Etage",
+        "Beschreibung": "Frischwasser zum Abzapfen gibt es bei uns in der 1. und 2. Etage;\nSamstag und Sonntag w\u00e4hrend des jeweiligen Kursbetriebes",
         "Homepage": "https://www.stadt-muenster.de/vhs",
         "ID": "f6ff7610675847f99b27f67c3d7e847d",
         "Name": "Volkshochschule M\u00fcnster / Weiterbildungszentrum",
         "PLZ": "48143",
         "Stra\u00dfe": "Aegidiistra\u00dfe 70",
-        "\u00d6ffnungszeiten": "Montag bis Sonntag: 8:00 \u2013 22:00 Uhr"
+        "\u00d6ffnungszeiten": "Mo-Fr 08:30-22:00"
       },
       "type": "Feature"
     }
