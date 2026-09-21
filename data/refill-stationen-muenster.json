@@ -983,25 +983,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.626200005238037,
-          51.95899998860387
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Beschreibung": "Bei uns im Kundencenter f\u00fcllen wir Ihre Flasche gerne wieder auf. ",
-        "Homepage": "https://www.aok.de/pk/nordwest/",
-        "ID": "b1b415712cd24183a0269773dc4d8259",
-        "Name": "AOK NordWest Kundencenter M\u00fcnster",
-        "PLZ": "48143",
-        "Stra\u00dfe": "K\u00f6nigsstra\u00dfe 18",
-        "\u00d6ffnungszeiten": "Mo und Do: 08:30 - 18:00 Uhr, Di 08:30 - 17:00 Uhr, Mi und Fr 08:30 - 14:00 Uhr"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           7.6164999639692255,
           51.990600015032385
         ],
